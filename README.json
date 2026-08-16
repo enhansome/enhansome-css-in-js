@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-11T17:35:04Z",
+            "last_commit": "2026-08-15T22:30:42Z",
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41125
+            "stars": 41124
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-10T18:34:26Z",
             "owner": "callstack",
             "repo": "linaria",
-            "stars": 12347
+            "stars": 12346
           }
         },
         {
@@ -306,7 +306,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T02:18:45.188Z",
+    "last_updated": "2026-08-16T02:34:52.329Z",
     "original_repository": "tuchk4/awesome-css-in-js",
     "original_repository_sha": "5d2d40f7735d7c6673cd6ba4801acc67e2a31dbb",
     "enhanced_repository": "enhansome/enhansome-css-in-js",
