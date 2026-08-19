@@ -14,7 +14,7 @@
             "last_commit": "2026-08-17T17:53:56Z",
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41119
+            "stars": 41120
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-10T18:34:26Z",
             "owner": "callstack",
             "repo": "linaria",
-            "stars": 12345
+            "stars": 12344
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2024-08-13T19:53:12Z",
             "owner": "cssinjs",
             "repo": "jss",
-            "stars": 7056
+            "stars": 7055
           }
         },
         {
@@ -306,7 +306,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T02:20:44.150Z",
+    "last_updated": "2026-08-19T02:31:23.607Z",
     "original_repository": "tuchk4/awesome-css-in-js",
     "original_repository_sha": "5d2d40f7735d7c6673cd6ba4801acc67e2a31dbb",
     "enhanced_repository": "enhansome/enhansome-css-in-js",
