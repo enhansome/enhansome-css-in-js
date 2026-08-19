@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": "NOTE table is still not completed. If there is bug or need to add another library - please suggest PR.\nHow to read the table:\nAs Object - When declare CSS using Objects.\nAs TL - When declare CSS using Template Literals.\nSSR - Server Side Rendering.\nRN Support - React Native support.\nAgnostic - Framework agnostic. Means that library could used with any framework.\nDynamic - When it is possible to write CSS that depends on runtime values like component props.\nBabel plugins - If there are any babel plugins for performance optimization.\nBindings - If there are packages that provide bindings for another framework or library.",
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65794292,
             "language": "TypeScript",
             "last_commit": "2026-08-17T17:53:56Z",
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41120
+            "stars": 41121
           }
         },
         {
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92112844,
             "language": "TypeScript",
             "last_commit": "2026-08-10T18:34:26Z",
             "owner": "callstack",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75629834,
             "language": "JavaScript",
             "last_commit": "2026-06-09T16:20:50Z",
             "owner": "vercel",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 29031987,
             "language": "JavaScript",
             "last_commit": "2022-08-19T13:33:58Z",
             "owner": "FormidableLabs",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25131304,
             "language": "JavaScript",
             "last_commit": "2024-08-13T19:53:12Z",
             "owner": "cssinjs",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43790903,
             "language": "JavaScript",
             "last_commit": "2025-07-24T18:52:57Z",
             "owner": "Khan",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63597213,
             "language": "JavaScript",
             "last_commit": "2023-12-21T09:00:30Z",
             "owner": "threepointone",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 87123146,
             "language": "JavaScript",
             "last_commit": "2018-12-06T19:58:04Z",
             "owner": "paypal",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55190888,
             "language": "TypeScript",
             "last_commit": "2023-12-22T12:25:22Z",
             "owner": "styletron",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59293418,
             "language": "JavaScript",
             "last_commit": "2024-11-06T11:34:01Z",
             "owner": "robinweser",
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62193491,
             "language": "JavaScript",
             "last_commit": "2022-12-08T17:15:43Z",
             "owner": "cxs-css",
@@ -164,6 +175,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 89388866,
             "language": "JavaScript",
             "last_commit": "2018-04-25T15:36:20Z",
             "owner": "threepointone",
@@ -178,6 +190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 106126978,
             "language": "TypeScript",
             "last_commit": "2026-02-07T16:31:00Z",
             "owner": "streamich",
@@ -192,6 +205,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88740773,
             "language": "JavaScript",
             "last_commit": "2018-12-31T10:10:52Z",
             "owner": "cssinjs",
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74237262,
             "language": "TypeScript",
             "last_commit": "2021-07-21T03:29:47Z",
             "owner": "aesthetic-suite",
@@ -220,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33741255,
             "language": "JavaScript",
             "last_commit": "2019-10-22T23:15:28Z",
             "owner": "j2css",
@@ -234,24 +250,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85680025,
             "language": "JavaScript",
             "last_commit": "2019-02-15T10:22:12Z",
             "owner": "tuchk4",
             "repo": "rockey",
             "stars": 99
           }
-        },
-        {
-          "node_type": "item",
-          "title": "react-jss",
-          "description": "JSS integration for React",
-          "children": []
         }
       ],
       "title": "Libraries"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -260,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36229979,
             "language": "JavaScript",
             "last_commit": "2024-04-02T05:36:49Z",
             "owner": "MicheleBertoli",
@@ -274,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 89151410,
             "language": "JavaScript",
             "last_commit": "2023-01-12T06:49:21Z",
             "owner": "A-gambit",
@@ -288,26 +301,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85686950,
             "language": "JavaScript",
             "last_commit": "2018-07-03T21:26:04Z",
             "owner": "tuchk4",
             "repo": "css-in-js-app",
             "stars": 43
           }
-        },
-        {
-          "node_type": "item",
-          "title": "hellofresh/css-in-js-perf-tests",
-          "description": "CSS-in-JS performance tests",
-          "children": []
         }
       ],
       "title": "Benchmarks and comparison"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:31:23.607Z",
+    "last_updated": "2026-08-19T12:25:47.615Z",
     "original_repository": "tuchk4/awesome-css-in-js",
+    "original_repository_id": 92740520,
     "original_repository_sha": "5d2d40f7735d7c6673cd6ba4801acc67e2a31dbb",
     "enhanced_repository": "enhansome/enhansome-css-in-js",
     "enhanced_repository_description": null,
