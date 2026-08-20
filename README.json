@@ -15,7 +15,7 @@
             "last_commit": "2026-08-17T17:53:56Z",
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41121
+            "stars": 41122
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-10T18:34:26Z",
             "owner": "callstack",
             "repo": "linaria",
-            "stars": 12344
+            "stars": 12343
           }
         },
         {
@@ -314,7 +314,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:25:47.615Z",
+    "last_updated": "2026-08-20T02:30:42.178Z",
     "original_repository": "tuchk4/awesome-css-in-js",
     "original_repository_id": 92740520,
     "original_repository_sha": "5d2d40f7735d7c6673cd6ba4801acc67e2a31dbb",
