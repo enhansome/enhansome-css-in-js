@@ -15,7 +15,7 @@
             "last_commit": "2026-08-17T17:53:56Z",
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41120
+            "stars": 41121
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-06-09T16:20:50Z",
             "owner": "vercel",
             "repo": "styled-jsx",
-            "stars": 7775
+            "stars": 7776
           }
         },
         {
@@ -257,6 +257,231 @@
             "repo": "rockey",
             "stars": 99
           }
+        },
+        {
+          "node_type": "item",
+          "title": "emotion",
+          "description": "✅ ✅ ✅ ✅ ✅ ✅ ✅ react-emotion, preact-emotion",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 92570536,
+            "language": "JavaScript",
+            "last_commit": "2026-05-06T07:42:22Z",
+            "owner": "emotion-js",
+            "repo": "emotion",
+            "stars": 18016
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fela",
+          "description": "✅ ✅ ✅ ✅ ✅ react-fela native-fela preact-fela inferno-fela",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 59293418,
+            "language": "JavaScript",
+            "last_commit": "2024-11-06T11:34:01Z",
+            "owner": "robinweser",
+            "repo": "fela",
+            "stars": 2284
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jss",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 25131304,
+            "language": "JavaScript",
+            "last_commit": "2024-08-13T19:53:12Z",
+            "owner": "cssinjs",
+            "repo": "jss",
+            "stars": 7055
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rockey",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 85680025,
+            "language": "JavaScript",
+            "last_commit": "2019-02-15T10:22:12Z",
+            "owner": "tuchk4",
+            "repo": "rockey",
+            "stars": 99
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rockey-react",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 85680025,
+            "language": "JavaScript",
+            "last_commit": "2019-02-15T10:22:12Z",
+            "owner": "tuchk4",
+            "repo": "rockey",
+            "stars": 99
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "styled-components",
+          "description": "✅ ✅ ✅ ✅ ✅",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 65794292,
+            "language": "TypeScript",
+            "last_commit": "2026-08-17T17:53:56Z",
+            "owner": "styled-components",
+            "repo": "styled-components",
+            "stars": 41121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aphrodite",
+          "description": "✅ ✅ ✅",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 43790903,
+            "language": "JavaScript",
+            "last_commit": "2025-07-24T18:52:57Z",
+            "owner": "Khan",
+            "repo": "aphrodite",
+            "stars": 5339
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "csx",
+          "description": "✅ ✅ ✅",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 62193491,
+            "language": "JavaScript",
+            "last_commit": "2022-12-08T17:15:43Z",
+            "owner": "cxs-css",
+            "repo": "cxs",
+            "stars": 1182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "glam",
+          "description": "✅ ✅ ✅ ✅",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 89388866,
+            "language": "JavaScript",
+            "last_commit": "2018-04-25T15:36:20Z",
+            "owner": "threepointone",
+            "repo": "glam",
+            "stars": 509
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "glamor",
+          "description": "✅ ✅ ✅ ✅",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 63597213,
+            "language": "JavaScript",
+            "last_commit": "2023-12-21T09:00:30Z",
+            "owner": "threepointone",
+            "repo": "glamor",
+            "stars": 3667
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "glamorous",
+          "description": "✅ ✅ ✅ ✅",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 87123146,
+            "language": "JavaScript",
+            "last_commit": "2018-12-06T19:58:04Z",
+            "owner": "paypal",
+            "repo": "glamorous",
+            "stars": 3619
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "styletron",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 55190888,
+            "language": "TypeScript",
+            "last_commit": "2023-12-22T12:25:22Z",
+            "owner": "styletron",
+            "repo": "styletron",
+            "stars": 3309
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "styletron-react",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 55190888,
+            "language": "TypeScript",
+            "last_commit": "2023-12-22T12:25:22Z",
+            "owner": "styletron",
+            "repo": "styletron",
+            "stars": 3309
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aesthetic",
+          "description": "✅ ✅",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 74237262,
+            "language": "TypeScript",
+            "last_commit": "2021-07-21T03:29:47Z",
+            "owner": "aesthetic-suite",
+            "repo": "framework",
+            "stars": 208
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "j2c",
+          "description": "✅ ✅ ✅",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 33741255,
+            "language": "JavaScript",
+            "last_commit": "2019-10-22T23:15:28Z",
+            "owner": "j2css",
+            "repo": "j2c",
+            "stars": 165
+          }
         }
       ],
       "title": "Libraries"
@@ -314,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:37:27.757Z",
+    "last_updated": "2026-08-24T14:19:35.953Z",
     "original_repository": "tuchk4/awesome-css-in-js",
     "original_repository_id": 92740520,
     "original_repository_sha": "5d2d40f7735d7c6673cd6ba4801acc67e2a31dbb",
