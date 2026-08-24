@@ -15,7 +15,7 @@ A collection of awesome things regarding to CSS in JS approach
 
 * [styled-components](https://github.com/styled-components/styled-components) ⭐ 41,120 | 🐛 19 | 🌐 TypeScript | 📅 2026-08-17 - Universal, Dynamic & High-Performance Styling in JavaScript
 * [linaria](https://github.com/callstack/linaria) ⭐ 12,343 | 🐛 72 | 🌐 TypeScript | 📅 2026-08-10 - Zero-runtime CSS in JS library
-* [styled-jsx](https://github.com/zeit/styled-jsx) ⭐ 7,776 | 🐛 83 | 🌐 JavaScript | 📅 2026-06-09 - Full CSS support for JSX without compromises
+* [styled-jsx](https://github.com/zeit/styled-jsx) ⭐ 7,775 | 🐛 83 | 🌐 JavaScript | 📅 2026-06-09 - Full CSS support for JSX without compromises
 * [radium](https://github.com/FormidableLabs/radium) ⚠️ Archived - Set of tools to manage inline styles on React elements.
 * [jss](https://github.com/cssinjs/jss) ⭐ 7,055 | 🐛 225 | 🌐 JavaScript | 📅 2024-08-13 - JSS is a CSS authoring tool which uses JavaScript as a host language
 * [aphrodite](https://github.com/Khan/aphrodite) ⭐ 5,339 | 🐛 91 | 🌐 JavaScript | 📅 2025-07-24 - It's inline styles, but they work! Also supports styling via CSS
@@ -127,7 +127,7 @@ props => ({
 
 ## Benchmarks and comparison
 
-* [MicheleBertoli/css-in-js](https://github.com/MicheleBertoli/css-in-js) ⭐ 5,479 | 🐛 6 | 🌐 JavaScript | 📅 2024-04-02 React: CSS in JS techniques comparison.
+* [MicheleBertoli/css-in-js](https://github.com/MicheleBertoli/css-in-js) ⭐ 5,478 | 🐛 6 | 🌐 JavaScript | 📅 2024-04-02 React: CSS in JS techniques comparison.
 * [A-gambit/CSS-IN-JS-Benchmarks](https://github.com/A-gambit/CSS-IN-JS-Benchmarks) ⭐ 381 | 🐛 47 | 🌐 JavaScript | 📅 2023-01-12 [RESULTS.md](https://github.com/A-gambit/CSS-IN-JS-Benchmarks/blob/master/RESULT.md) ⭐ 381 | 🐛 47 | 🌐 JavaScript | 📅 2023-01-12
 * [tuchk4/css-in-js-app](https://github.com/tuchk4/css-in-js-app) ⭐ 43 | 🐛 2 | 🌐 JavaScript | 📅 2018-07-03 - React application with different css-in-js approaches and libraries.
 * [hellofresh/css-in-js-perf-tests](https://github.com/hellofresh/css-in-js-perf-tests) - CSS-in-JS performance tests
@@ -136,4 +136,4 @@ props => ({
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
