@@ -15,7 +15,7 @@
             "last_commit": "2026-08-17T17:53:56Z",
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41122
+            "stars": 41124
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-10T18:34:26Z",
             "owner": "callstack",
             "repo": "linaria",
-            "stars": 12344
+            "stars": 12345
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-06-09T16:20:50Z",
             "owner": "vercel",
             "repo": "styled-jsx",
-            "stars": 7776
+            "stars": 7777
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2024-08-13T19:53:12Z",
             "owner": "cssinjs",
             "repo": "jss",
-            "stars": 7055
+            "stars": 7056
           }
         },
         {
@@ -267,10 +267,10 @@
             "archived": false,
             "id": 92570536,
             "language": "JavaScript",
-            "last_commit": "2026-05-06T07:42:22Z",
+            "last_commit": "2026-08-26T21:27:16Z",
             "owner": "emotion-js",
             "repo": "emotion",
-            "stars": 18016
+            "stars": 18017
           }
         },
         {
@@ -300,7 +300,7 @@
             "last_commit": "2024-08-13T19:53:12Z",
             "owner": "cssinjs",
             "repo": "jss",
-            "stars": 7055
+            "stars": 7056
           }
         },
         {
@@ -345,7 +345,7 @@
             "last_commit": "2026-08-17T17:53:56Z",
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41122
+            "stars": 41124
           }
         },
         {
@@ -539,9 +539,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:39:08.364Z",
-    "original_repository": "tuchk4/awesome-css-in-js",
-    "original_repository_id": 92740520,
+    "last_updated": "2026-08-27T11:11:15.004Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 92740520,
+      "language": null,
+      "last_commit": "2020-10-12T07:46:02Z",
+      "owner": "tuchk4",
+      "repo": "awesome-css-in-js",
+      "stars": 613
+    },
     "original_repository_sha": "5d2d40f7735d7c6673cd6ba4801acc67e2a31dbb",
     "enhanced_repository": "enhansome/enhansome-css-in-js",
     "enhanced_repository_description": null,
