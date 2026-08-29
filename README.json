@@ -19,7 +19,7 @@
             "open_issues": 23,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41125,
+            "stars": 41124,
             "topics": [
               "css",
               "css-in-js",
@@ -600,7 +600,7 @@
             "open_issues": 23,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41125,
+            "stars": 41124,
             "topics": [
               "css",
               "css-in-js",
@@ -933,7 +933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:42:43.602Z",
+    "last_updated": "2026-08-29T07:52:10.763Z",
     "original_repository_info": {
       "archived": false,
       "description": " Awesome CSS in JS articles / tutorials / videos / benchmarks / comparision",
