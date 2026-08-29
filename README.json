@@ -10,12 +10,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast, expressive styling for React. Server components, client components, streaming SSR, React Native—one API.",
+            "homepage": "https://styled-components.com",
             "id": 65794292,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T17:53:56Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T23:00:26Z",
+            "open_issues": 23,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41127
+            "stars": 41125,
+            "topics": [
+              "css",
+              "css-in-js",
+              "react",
+              "reactnative",
+              "rsc",
+              "styled-components"
+            ]
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
         },
@@ -26,12 +38,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Zero-runtime CSS in JS library",
+            "homepage": "https://linaria.dev",
             "id": 92112844,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-10T18:34:26Z",
+            "open_issues": 72,
             "owner": "callstack",
             "repo": "linaria",
-            "stars": 12346
+            "stars": 12346,
+            "topics": [
+              "css",
+              "css-in-js",
+              "css-in-react",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
         },
@@ -42,12 +64,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Full CSS support for JSX without compromises",
+            "homepage": "http://npmjs.com/styled-jsx",
             "id": 75629834,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-09T16:20:50Z",
+            "open_issues": 83,
             "owner": "vercel",
             "repo": "styled-jsx",
-            "stars": 7777
+            "stars": 7777,
+            "topics": [
+              "css",
+              "css-in-js",
+              "dynamic-styles",
+              "jsx",
+              "react",
+              "shadow-dom"
+            ]
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
         },
@@ -58,12 +92,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A toolchain for React component styling.",
+            "homepage": "http://formidable.com/open-source/radium/",
             "id": 29031987,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-08-19T13:33:58Z",
+            "open_issues": 83,
             "owner": "FormidableLabs",
             "repo": "radium",
-            "stars": 7337
+            "stars": 7337,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
         },
@@ -74,12 +113,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JSS is an authoring tool for CSS which uses JavaScript as a host language.",
+            "homepage": "https://cssinjs.org",
             "id": 25131304,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-08-13T19:53:12Z",
+            "open_issues": 225,
             "owner": "cssinjs",
             "repo": "jss",
-            "stars": 7056
+            "stars": 7056,
+            "topics": [
+              "components",
+              "css",
+              "css-in-js",
+              "cssinjs",
+              "js",
+              "jss",
+              "stylesheets"
+            ]
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
         },
@@ -90,12 +142,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Framework-agnostic CSS-in-JS with support for server-side rendering, browser prefixing, and minimum CSS generation",
+            "homepage": null,
             "id": 43790903,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-07-24T18:52:57Z",
+            "open_issues": 91,
             "owner": "Khan",
             "repo": "aphrodite",
-            "stars": 5339
+            "stars": 5339,
+            "topics": [
+              "aphrodite",
+              "css",
+              "css-in-js",
+              "javascript"
+            ]
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
         },
@@ -106,12 +168,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "inline css for react et al",
+            "homepage": null,
             "id": 63597213,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-12-21T09:00:30Z",
+            "open_issues": 73,
             "owner": "threepointone",
             "repo": "glamor",
-            "stars": 3668
+            "stars": 3668,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
         },
@@ -122,12 +189,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "DEPRECATED: 💄 Maintainable CSS with React",
+            "homepage": "https://glamorous.rocks",
             "id": 87123146,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-12-06T19:58:04Z",
+            "open_issues": 0,
             "owner": "paypal",
             "repo": "glamorous",
-            "stars": 3619
+            "stars": 3619,
+            "topics": [
+              "css-in-js",
+              "glamor",
+              "glamorous",
+              "react",
+              "styled-components"
+            ]
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
         },
@@ -138,12 +216,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":zap: Toolkit for component-oriented styling",
+            "homepage": "https://www.styletron.org",
             "id": 55190888,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-12-22T12:25:22Z",
+            "open_issues": 36,
             "owner": "styletron",
             "repo": "styletron",
-            "stars": 3309
+            "stars": 3309,
+            "topics": [
+              "atomic-css",
+              "css",
+              "css-in-js",
+              "cssinjs",
+              "styletron"
+            ]
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
         },
@@ -154,12 +243,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "State-Driven Styling in JavaScript",
+            "homepage": "http://fela.js.org",
             "id": 59293418,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-11-06T11:34:01Z",
+            "open_issues": 8,
             "owner": "robinweser",
             "repo": "fela",
-            "stars": 2284
+            "stars": 2284,
+            "topics": [
+              "atomic-css",
+              "components",
+              "css",
+              "css-in-js",
+              "react",
+              "state-driven",
+              "styling"
+            ]
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
         },
@@ -170,12 +272,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "fast af css-in-js in 0.7kb",
+            "homepage": null,
             "id": 62193491,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-08T17:15:43Z",
+            "open_issues": 45,
             "owner": "cxs-css",
             "repo": "cxs",
-            "stars": 1182
+            "stars": 1182,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
         },
@@ -186,12 +293,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "crazy good css in your js",
+            "homepage": null,
             "id": 89388866,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-04-25T15:36:20Z",
+            "open_issues": 13,
             "owner": "threepointone",
             "repo": "glam",
-            "stars": 509
+            "stars": 509,
+            "topics": [
+              "babel-plugin",
+              "css"
+            ]
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
         },
@@ -202,12 +317,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "5th generation CSS-in-JS library",
+            "homepage": "https://www.npmjs.com/package/freestyler",
             "id": 106126978,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-02-07T16:31:00Z",
+            "open_issues": 13,
             "owner": "streamich",
             "repo": "freestyler",
-            "stars": 271
+            "stars": 271,
+            "topics": [
+              "css",
+              "css-in-js",
+              "css-in-react",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
         },
@@ -218,12 +343,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Styled Components on top of JSS.",
+            "homepage": "http://cssinjs.org/styled-jss",
             "id": 88740773,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-12-31T10:10:52Z",
+            "open_issues": 20,
             "owner": "cssinjs",
             "repo": "styled-jss",
-            "stars": 214
+            "stars": 214,
+            "topics": [
+              "css",
+              "js",
+              "jss",
+              "react",
+              "styled-components",
+              "styled-jss",
+              "stylesheets"
+            ]
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
         },
@@ -234,12 +372,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎨 Aesthetic is an end-to-end multi-platform styling framework that offers a strict design system, robust atomic CSS-in-JS engine, a structural style sheet specification (SSS), a low-runtime solution, and much more!",
+            "homepage": "https://aestheticsuite.dev",
             "id": 74237262,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2021-07-21T03:29:47Z",
+            "open_issues": 0,
             "owner": "aesthetic-suite",
             "repo": "framework",
-            "stars": 208
+            "stars": 208,
+            "topics": [
+              "android",
+              "atomic-css",
+              "css",
+              "css-in-js",
+              "design-system",
+              "ios",
+              "low-runtime",
+              "react",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
         },
@@ -250,12 +403,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CSS in JS library, tiny yet featureful",
+            "homepage": "https://j2c.py.gy",
             "id": 33741255,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-10-22T23:15:28Z",
+            "open_issues": 9,
             "owner": "j2css",
             "repo": "j2c",
-            "stars": 165
+            "stars": 165,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
         },
@@ -266,12 +424,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stressless CSS for components using JS. Write Component Based CSS with functional mixins.",
+            "homepage": null,
             "id": 85680025,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-02-15T10:22:12Z",
+            "open_issues": 3,
             "owner": "tuchk4",
             "repo": "rockey",
-            "stars": 99
+            "stars": 99,
+            "topics": [
+              "css",
+              "css-in-js",
+              "css-rules",
+              "dynamic-css",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
         },
@@ -282,12 +451,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "👩‍🎤 CSS-in-JS library designed for high performance style composition",
+            "homepage": "https://emotion.sh/",
             "id": 92570536,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T09:30:54Z",
+            "open_issues": 392,
             "owner": "emotion-js",
             "repo": "emotion",
-            "stars": 18019
+            "stars": 18020,
+            "topics": [
+              "babel-plugin",
+              "css",
+              "css-in-js",
+              "emotion",
+              "react",
+              "reactjs"
+            ]
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
         },
@@ -298,12 +479,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "State-Driven Styling in JavaScript",
+            "homepage": "http://fela.js.org",
             "id": 59293418,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-11-06T11:34:01Z",
+            "open_issues": 8,
             "owner": "robinweser",
             "repo": "fela",
-            "stars": 2284
+            "stars": 2284,
+            "topics": [
+              "atomic-css",
+              "components",
+              "css",
+              "css-in-js",
+              "react",
+              "state-driven",
+              "styling"
+            ]
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
         },
@@ -314,12 +508,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JSS is an authoring tool for CSS which uses JavaScript as a host language.",
+            "homepage": "https://cssinjs.org",
             "id": 25131304,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-08-13T19:53:12Z",
+            "open_issues": 225,
             "owner": "cssinjs",
             "repo": "jss",
-            "stars": 7056
+            "stars": 7056,
+            "topics": [
+              "components",
+              "css",
+              "css-in-js",
+              "cssinjs",
+              "js",
+              "jss",
+              "stylesheets"
+            ]
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
         },
@@ -330,12 +537,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stressless CSS for components using JS. Write Component Based CSS with functional mixins.",
+            "homepage": null,
             "id": 85680025,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-02-15T10:22:12Z",
+            "open_issues": 3,
             "owner": "tuchk4",
             "repo": "rockey",
-            "stars": 99
+            "stars": 99,
+            "topics": [
+              "css",
+              "css-in-js",
+              "css-rules",
+              "dynamic-css",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
         },
@@ -346,12 +564,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stressless CSS for components using JS. Write Component Based CSS with functional mixins.",
+            "homepage": null,
             "id": 85680025,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-02-15T10:22:12Z",
+            "open_issues": 3,
             "owner": "tuchk4",
             "repo": "rockey",
-            "stars": 99
+            "stars": 99,
+            "topics": [
+              "css",
+              "css-in-js",
+              "css-rules",
+              "dynamic-css",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
         },
@@ -362,12 +591,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast, expressive styling for React. Server components, client components, streaming SSR, React Native—one API.",
+            "homepage": "https://styled-components.com",
             "id": 65794292,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T17:53:56Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T23:00:26Z",
+            "open_issues": 23,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41127
+            "stars": 41125,
+            "topics": [
+              "css",
+              "css-in-js",
+              "react",
+              "reactnative",
+              "rsc",
+              "styled-components"
+            ]
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
         },
@@ -378,12 +619,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Framework-agnostic CSS-in-JS with support for server-side rendering, browser prefixing, and minimum CSS generation",
+            "homepage": null,
             "id": 43790903,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-07-24T18:52:57Z",
+            "open_issues": 91,
             "owner": "Khan",
             "repo": "aphrodite",
-            "stars": 5339
+            "stars": 5339,
+            "topics": [
+              "aphrodite",
+              "css",
+              "css-in-js",
+              "javascript"
+            ]
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
         },
@@ -394,12 +645,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "fast af css-in-js in 0.7kb",
+            "homepage": null,
             "id": 62193491,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-08T17:15:43Z",
+            "open_issues": 45,
             "owner": "cxs-css",
             "repo": "cxs",
-            "stars": 1182
+            "stars": 1182,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
         },
@@ -410,12 +666,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "crazy good css in your js",
+            "homepage": null,
             "id": 89388866,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-04-25T15:36:20Z",
+            "open_issues": 13,
             "owner": "threepointone",
             "repo": "glam",
-            "stars": 509
+            "stars": 509,
+            "topics": [
+              "babel-plugin",
+              "css"
+            ]
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
         },
@@ -426,12 +690,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "inline css for react et al",
+            "homepage": null,
             "id": 63597213,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-12-21T09:00:30Z",
+            "open_issues": 73,
             "owner": "threepointone",
             "repo": "glamor",
-            "stars": 3668
+            "stars": 3668,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
         },
@@ -442,12 +711,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "DEPRECATED: 💄 Maintainable CSS with React",
+            "homepage": "https://glamorous.rocks",
             "id": 87123146,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-12-06T19:58:04Z",
+            "open_issues": 0,
             "owner": "paypal",
             "repo": "glamorous",
-            "stars": 3619
+            "stars": 3619,
+            "topics": [
+              "css-in-js",
+              "glamor",
+              "glamorous",
+              "react",
+              "styled-components"
+            ]
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
         },
@@ -458,12 +738,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":zap: Toolkit for component-oriented styling",
+            "homepage": "https://www.styletron.org",
             "id": 55190888,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-12-22T12:25:22Z",
+            "open_issues": 36,
             "owner": "styletron",
             "repo": "styletron",
-            "stars": 3309
+            "stars": 3309,
+            "topics": [
+              "atomic-css",
+              "css",
+              "css-in-js",
+              "cssinjs",
+              "styletron"
+            ]
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
         },
@@ -474,12 +765,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":zap: Toolkit for component-oriented styling",
+            "homepage": "https://www.styletron.org",
             "id": 55190888,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-12-22T12:25:22Z",
+            "open_issues": 36,
             "owner": "styletron",
             "repo": "styletron",
-            "stars": 3309
+            "stars": 3309,
+            "topics": [
+              "atomic-css",
+              "css",
+              "css-in-js",
+              "cssinjs",
+              "styletron"
+            ]
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
         },
@@ -490,12 +792,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎨 Aesthetic is an end-to-end multi-platform styling framework that offers a strict design system, robust atomic CSS-in-JS engine, a structural style sheet specification (SSS), a low-runtime solution, and much more!",
+            "homepage": "https://aestheticsuite.dev",
             "id": 74237262,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2021-07-21T03:29:47Z",
+            "open_issues": 0,
             "owner": "aesthetic-suite",
             "repo": "framework",
-            "stars": 208
+            "stars": 208,
+            "topics": [
+              "android",
+              "atomic-css",
+              "css",
+              "css-in-js",
+              "design-system",
+              "ios",
+              "low-runtime",
+              "react",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
         },
@@ -506,12 +823,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CSS in JS library, tiny yet featureful",
+            "homepage": "https://j2c.py.gy",
             "id": 33741255,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2019-10-22T23:15:28Z",
+            "open_issues": 9,
             "owner": "j2css",
             "repo": "j2c",
-            "stars": 165
+            "stars": 165,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
         }
@@ -528,12 +850,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React: CSS in JS techniques comparison",
+            "homepage": "http://michelebertoli.github.io/css-in-js/",
             "id": 36229979,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-04-02T05:36:49Z",
+            "open_issues": 6,
             "owner": "MicheleBertoli",
             "repo": "css-in-js",
-            "stars": 5476
+            "stars": 5476,
+            "topics": [
+              "css-in-js",
+              "cssinjs"
+            ]
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
         },
@@ -544,12 +874,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 89151410,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-01-12T06:49:21Z",
+            "open_issues": 47,
             "owner": "A-gambit",
             "repo": "CSS-IN-JS-Benchmarks",
-            "stars": 381
+            "stars": 381,
+            "topics": [
+              "aphrodite",
+              "benchmark",
+              "calculations",
+              "css",
+              "css-in-js",
+              "glam",
+              "glamor",
+              "glamorous",
+              "inline-styles",
+              "js",
+              "jss",
+              "radium",
+              "react",
+              "styld",
+              "styled-components",
+              "styled-jss",
+              "styled-jsx",
+              "styletron"
+            ]
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
         },
@@ -560,12 +914,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "There is React application with implemented different css-in-js approaches",
+            "homepage": "https://tuchk4.github.io/css-in-js-app/#/",
             "id": 85686950,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-07-03T21:26:04Z",
+            "open_issues": 2,
             "owner": "tuchk4",
             "repo": "css-in-js-app",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
         }
@@ -574,15 +933,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T12:46:04.352Z",
+    "last_updated": "2026-08-29T04:42:43.602Z",
     "original_repository_info": {
       "archived": false,
+      "description": " Awesome CSS in JS articles / tutorials / videos / benchmarks / comparision",
+      "homepage": null,
       "id": 92740520,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2020-10-12T07:46:02Z",
+      "open_issues": 1,
       "owner": "tuchk4",
       "repo": "awesome-css-in-js",
-      "stars": 613
+      "stars": 613,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "css-in-js"
+      ]
     },
     "original_repository_sha": "5d2d40f7735d7c6673cd6ba4801acc67e2a31dbb",
     "enhanced_repository": "enhansome/enhansome-css-in-js",
