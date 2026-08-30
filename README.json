@@ -19,7 +19,7 @@
             "open_issues": 23,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41124,
+            "stars": 41125,
             "topics": [
               "css",
               "css-in-js",
@@ -122,7 +122,7 @@
             "open_issues": 225,
             "owner": "cssinjs",
             "repo": "jss",
-            "stars": 7056,
+            "stars": 7055,
             "topics": [
               "components",
               "css",
@@ -225,7 +225,7 @@
             "open_issues": 36,
             "owner": "styletron",
             "repo": "styletron",
-            "stars": 3309,
+            "stars": 3308,
             "topics": [
               "atomic-css",
               "css",
@@ -457,7 +457,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-08-28T09:30:54Z",
-            "open_issues": 392,
+            "open_issues": 393,
             "owner": "emotion-js",
             "repo": "emotion",
             "stars": 18020,
@@ -517,7 +517,7 @@
             "open_issues": 225,
             "owner": "cssinjs",
             "repo": "jss",
-            "stars": 7056,
+            "stars": 7055,
             "topics": [
               "components",
               "css",
@@ -600,7 +600,7 @@
             "open_issues": 23,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41124,
+            "stars": 41125,
             "topics": [
               "css",
               "css-in-js",
@@ -747,7 +747,7 @@
             "open_issues": 36,
             "owner": "styletron",
             "repo": "styletron",
-            "stars": 3309,
+            "stars": 3308,
             "topics": [
               "atomic-css",
               "css",
@@ -774,7 +774,7 @@
             "open_issues": 36,
             "owner": "styletron",
             "repo": "styletron",
-            "stars": 3309,
+            "stars": 3308,
             "topics": [
               "atomic-css",
               "css",
@@ -933,7 +933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T07:52:10.763Z",
+    "last_updated": "2026-08-30T06:38:31.401Z",
     "original_repository_info": {
       "archived": false,
       "description": " Awesome CSS in JS articles / tutorials / videos / benchmarks / comparision",
