@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-28T23:00:26Z",
-            "open_issues": 23,
+            "open_issues": 24,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41126,
+            "stars": 41121,
             "topics": [
               "css",
               "css-in-js",
@@ -460,7 +460,7 @@
             "open_issues": 393,
             "owner": "emotion-js",
             "repo": "emotion",
-            "stars": 18020,
+            "stars": 18021,
             "topics": [
               "babel-plugin",
               "css",
@@ -597,10 +597,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-28T23:00:26Z",
-            "open_issues": 23,
+            "open_issues": 24,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41126,
+            "stars": 41121,
             "topics": [
               "css",
               "css-in-js",
@@ -933,7 +933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T06:14:46.023Z",
+    "last_updated": "2026-09-02T05:49:03.249Z",
     "original_repository_info": {
       "archived": false,
       "description": " Awesome CSS in JS articles / tutorials / videos / benchmarks / comparision",
