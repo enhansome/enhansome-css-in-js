@@ -19,7 +19,7 @@
             "open_issues": 24,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41121,
+            "stars": 41124,
             "topics": [
               "css",
               "css-in-js",
@@ -47,7 +47,7 @@
             "open_issues": 72,
             "owner": "callstack",
             "repo": "linaria",
-            "stars": 12348,
+            "stars": 12347,
             "topics": [
               "css",
               "css-in-js",
@@ -600,7 +600,7 @@
             "open_issues": 24,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41121,
+            "stars": 41124,
             "topics": [
               "css",
               "css-in-js",
@@ -933,7 +933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T05:49:03.249Z",
+    "last_updated": "2026-09-03T05:46:56.860Z",
     "original_repository_info": {
       "archived": false,
       "description": " Awesome CSS in JS articles / tutorials / videos / benchmarks / comparision",
