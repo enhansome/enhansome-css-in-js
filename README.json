@@ -16,7 +16,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-28T23:00:26Z",
-            "open_issues": 24,
+            "open_issues": 25,
             "owner": "styled-components",
             "repo": "styled-components",
             "stars": 41124,
@@ -597,7 +597,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-28T23:00:26Z",
-            "open_issues": 24,
+            "open_issues": 25,
             "owner": "styled-components",
             "repo": "styled-components",
             "stars": 41124,
@@ -859,7 +859,7 @@
             "open_issues": 6,
             "owner": "MicheleBertoli",
             "repo": "css-in-js",
-            "stars": 5476,
+            "stars": 5475,
             "topics": [
               "css-in-js",
               "cssinjs"
@@ -933,7 +933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T05:46:56.860Z",
+    "last_updated": "2026-09-04T05:53:19.392Z",
     "original_repository_info": {
       "archived": false,
       "description": " Awesome CSS in JS articles / tutorials / videos / benchmarks / comparision",
