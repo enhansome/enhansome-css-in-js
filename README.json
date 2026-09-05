@@ -15,11 +15,11 @@
             "id": 65794292,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-28T23:00:26Z",
+            "last_commit": "2026-09-05T05:11:58Z",
             "open_issues": 25,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41124,
+            "stars": 41122,
             "topics": [
               "css",
               "css-in-js",
@@ -47,7 +47,7 @@
             "open_issues": 72,
             "owner": "callstack",
             "repo": "linaria",
-            "stars": 12347,
+            "stars": 12348,
             "topics": [
               "css",
               "css-in-js",
@@ -101,7 +101,7 @@
             "open_issues": 83,
             "owner": "FormidableLabs",
             "repo": "radium",
-            "stars": 7337,
+            "stars": 7336,
             "topics": []
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
@@ -596,11 +596,11 @@
             "id": 65794292,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-28T23:00:26Z",
+            "last_commit": "2026-09-05T05:11:58Z",
             "open_issues": 25,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41124,
+            "stars": 41122,
             "topics": [
               "css",
               "css-in-js",
@@ -859,7 +859,7 @@
             "open_issues": 6,
             "owner": "MicheleBertoli",
             "repo": "css-in-js",
-            "stars": 5475,
+            "stars": 5474,
             "topics": [
               "css-in-js",
               "cssinjs"
@@ -933,7 +933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T05:53:19.392Z",
+    "last_updated": "2026-09-05T05:44:53.037Z",
     "original_repository_info": {
       "archived": false,
       "description": " Awesome CSS in JS articles / tutorials / videos / benchmarks / comparision",
