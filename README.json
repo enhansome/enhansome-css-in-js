@@ -15,8 +15,8 @@
             "id": 65794292,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-05T05:11:58Z",
-            "open_issues": 25,
+            "last_commit": "2026-09-05T06:13:28Z",
+            "open_issues": 26,
             "owner": "styled-components",
             "repo": "styled-components",
             "stars": 41122,
@@ -73,7 +73,7 @@
             "open_issues": 83,
             "owner": "vercel",
             "repo": "styled-jsx",
-            "stars": 7778,
+            "stars": 7777,
             "topics": [
               "css",
               "css-in-js",
@@ -101,7 +101,7 @@
             "open_issues": 83,
             "owner": "FormidableLabs",
             "repo": "radium",
-            "stars": 7336,
+            "stars": 7335,
             "topics": []
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
@@ -122,7 +122,7 @@
             "open_issues": 225,
             "owner": "cssinjs",
             "repo": "jss",
-            "stars": 7055,
+            "stars": 7054,
             "topics": [
               "components",
               "css",
@@ -198,7 +198,7 @@
             "open_issues": 0,
             "owner": "paypal",
             "repo": "glamorous",
-            "stars": 3619,
+            "stars": 3618,
             "topics": [
               "css-in-js",
               "glamor",
@@ -460,7 +460,7 @@
             "open_issues": 393,
             "owner": "emotion-js",
             "repo": "emotion",
-            "stars": 18021,
+            "stars": 18020,
             "topics": [
               "babel-plugin",
               "css",
@@ -517,7 +517,7 @@
             "open_issues": 225,
             "owner": "cssinjs",
             "repo": "jss",
-            "stars": 7055,
+            "stars": 7054,
             "topics": [
               "components",
               "css",
@@ -596,8 +596,8 @@
             "id": 65794292,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-05T05:11:58Z",
-            "open_issues": 25,
+            "last_commit": "2026-09-05T06:13:28Z",
+            "open_issues": 26,
             "owner": "styled-components",
             "repo": "styled-components",
             "stars": 41122,
@@ -720,7 +720,7 @@
             "open_issues": 0,
             "owner": "paypal",
             "repo": "glamorous",
-            "stars": 3619,
+            "stars": 3618,
             "topics": [
               "css-in-js",
               "glamor",
@@ -859,7 +859,7 @@
             "open_issues": 6,
             "owner": "MicheleBertoli",
             "repo": "css-in-js",
-            "stars": 5474,
+            "stars": 5473,
             "topics": [
               "css-in-js",
               "cssinjs"
@@ -933,7 +933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T05:44:53.037Z",
+    "last_updated": "2026-09-06T05:56:44.121Z",
     "original_repository_info": {
       "archived": false,
       "description": " Awesome CSS in JS articles / tutorials / videos / benchmarks / comparision",
