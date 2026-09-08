@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-05T06:13:28Z",
-            "open_issues": 26,
+            "open_issues": 27,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41121,
+            "stars": 41125,
             "topics": [
               "css",
               "css-in-js",
@@ -47,7 +47,7 @@
             "open_issues": 72,
             "owner": "callstack",
             "repo": "linaria",
-            "stars": 12348,
+            "stars": 12350,
             "topics": [
               "css",
               "css-in-js",
@@ -198,7 +198,7 @@
             "open_issues": 0,
             "owner": "paypal",
             "repo": "glamorous",
-            "stars": 3618,
+            "stars": 3617,
             "topics": [
               "css-in-js",
               "glamor",
@@ -281,7 +281,7 @@
             "open_issues": 45,
             "owner": "cxs-css",
             "repo": "cxs",
-            "stars": 1182,
+            "stars": 1181,
             "topics": []
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
@@ -433,7 +433,7 @@
             "open_issues": 3,
             "owner": "tuchk4",
             "repo": "rockey",
-            "stars": 99,
+            "stars": 98,
             "topics": [
               "css",
               "css-in-js",
@@ -457,7 +457,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-08-28T09:30:54Z",
-            "open_issues": 393,
+            "open_issues": 394,
             "owner": "emotion-js",
             "repo": "emotion",
             "stars": 18020,
@@ -546,7 +546,7 @@
             "open_issues": 3,
             "owner": "tuchk4",
             "repo": "rockey",
-            "stars": 99,
+            "stars": 98,
             "topics": [
               "css",
               "css-in-js",
@@ -573,7 +573,7 @@
             "open_issues": 3,
             "owner": "tuchk4",
             "repo": "rockey",
-            "stars": 99,
+            "stars": 98,
             "topics": [
               "css",
               "css-in-js",
@@ -597,10 +597,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-05T06:13:28Z",
-            "open_issues": 26,
+            "open_issues": 27,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41121,
+            "stars": 41125,
             "topics": [
               "css",
               "css-in-js",
@@ -654,7 +654,7 @@
             "open_issues": 45,
             "owner": "cxs-css",
             "repo": "cxs",
-            "stars": 1182,
+            "stars": 1181,
             "topics": []
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
@@ -720,7 +720,7 @@
             "open_issues": 0,
             "owner": "paypal",
             "repo": "glamorous",
-            "stars": 3618,
+            "stars": 3617,
             "topics": [
               "css-in-js",
               "glamor",
@@ -933,7 +933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T06:05:52.218Z",
+    "last_updated": "2026-09-08T05:57:28.288Z",
     "original_repository_info": {
       "archived": false,
       "description": " Awesome CSS in JS articles / tutorials / videos / benchmarks / comparision",
