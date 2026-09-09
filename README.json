@@ -15,11 +15,11 @@
             "id": 65794292,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-05T06:13:28Z",
+            "last_commit": "2026-09-08T19:53:57Z",
             "open_issues": 27,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41125,
+            "stars": 41109,
             "topics": [
               "css",
               "css-in-js",
@@ -596,11 +596,11 @@
             "id": 65794292,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-05T06:13:28Z",
+            "last_commit": "2026-09-08T19:53:57Z",
             "open_issues": 27,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41125,
+            "stars": 41109,
             "topics": [
               "css",
               "css-in-js",
@@ -933,7 +933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T05:57:28.288Z",
+    "last_updated": "2026-09-09T05:58:13.768Z",
     "original_repository_info": {
       "archived": false,
       "description": " Awesome CSS in JS articles / tutorials / videos / benchmarks / comparision",
