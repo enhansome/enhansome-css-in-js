@@ -19,7 +19,7 @@
             "open_issues": 31,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41102,
+            "stars": 41101,
             "topics": [
               "css",
               "css-in-js",
@@ -101,7 +101,7 @@
             "open_issues": 83,
             "owner": "FormidableLabs",
             "repo": "radium",
-            "stars": 7334,
+            "stars": 7333,
             "topics": []
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
@@ -600,7 +600,7 @@
             "open_issues": 31,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41102,
+            "stars": 41101,
             "topics": [
               "css",
               "css-in-js",
@@ -933,7 +933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T05:57:34.007Z",
+    "last_updated": "2026-09-24T06:10:04.263Z",
     "original_repository_info": {
       "archived": false,
       "description": " Awesome CSS in JS articles / tutorials / videos / benchmarks / comparision",
