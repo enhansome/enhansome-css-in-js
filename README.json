@@ -19,7 +19,7 @@
             "open_issues": 23,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41101,
+            "stars": 41103,
             "topics": [
               "css",
               "css-in-js",
@@ -177,7 +177,7 @@
             "open_issues": 72,
             "owner": "threepointone",
             "repo": "glamor",
-            "stars": 3667,
+            "stars": 3668,
             "topics": []
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
@@ -600,7 +600,7 @@
             "open_issues": 23,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41101,
+            "stars": 41103,
             "topics": [
               "css",
               "css-in-js",
@@ -699,7 +699,7 @@
             "open_issues": 72,
             "owner": "threepointone",
             "repo": "glamor",
-            "stars": 3667,
+            "stars": 3668,
             "topics": []
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
@@ -933,7 +933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T06:09:36.871Z",
+    "last_updated": "2026-09-27T06:35:55.229Z",
     "original_repository_info": {
       "archived": false,
       "description": " Awesome CSS in JS articles / tutorials / videos / benchmarks / comparision",
