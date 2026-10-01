@@ -13,8 +13,8 @@ A collection of awesome things regarding to CSS in JS approach
 
 ## Libraries
 
-* [styled-components](https://github.com/styled-components/styled-components) ⭐ 41,101 | 🐛 24 | 🌐 TypeScript | 📅 2026-09-28 - Universal, Dynamic & High-Performance Styling in JavaScript
-* [linaria](https://github.com/callstack/linaria) ⭐ 12,352 | 🐛 72 | 🌐 TypeScript | 📅 2026-08-10 - Zero-runtime CSS in JS library
+* [styled-components](https://github.com/styled-components/styled-components) ⭐ 41,100 | 🐛 24 | 🌐 TypeScript | 📅 2026-09-28 - Universal, Dynamic & High-Performance Styling in JavaScript
+* [linaria](https://github.com/callstack/linaria) ⭐ 12,351 | 🐛 72 | 🌐 TypeScript | 📅 2026-08-10 - Zero-runtime CSS in JS library
 * [styled-jsx](https://github.com/zeit/styled-jsx) ⭐ 7,775 | 🐛 83 | 🌐 JavaScript | 📅 2026-06-09 - Full CSS support for JSX without compromises
 * [radium](https://github.com/FormidableLabs/radium) ⚠️ Archived - Set of tools to manage inline styles on React elements.
 * [jss](https://github.com/cssinjs/jss) ⭐ 7,048 | 🐛 225 | 🌐 JavaScript | 📅 2024-08-13 - JSS is a CSS authoring tool which uses JavaScript as a host language
@@ -89,7 +89,7 @@ props => ({
 |                 [fela](https://github.com/rofrischmann/fela/) ⭐ 2,282 \| 🐛 8 \| 🌐 JavaScript \| 📅 2024-11-06                 |     ✅     |       |  ✅  | ✅          | ✅        | ✅       |               | [react-fela](http://fela.js.org/docs/guides/UsageWithReact.html) [native-fela](http://fela.js.org/docs/guides/UsageWithReactNative.html) [preact-fela](http://fela.js.org/docs/guides/UsageWithPreact.html) [inferno-fela](http://fela.js.org/docs/guides/UsageWithInferno.html) |   |
 |                    [jss](https://github.com/cssinjs/jss) ⭐ 7,048 \| 🐛 225 \| 🌐 JavaScript \| 📅 2024-08-13                    |     ✅     |   ✅   |  ✅  |            | ✅        | ✅       | ✅             | [react-jss](https://github.com/cssinjs/react-jss) [styled-jss](https://github.com/cssinjs/styled-jss) ⭐ 214 \| 🐛 20 \| 🌐 JavaScript \| 📅 2018-12-31                                                                                                                           |   |
 |                    [rockey](https://github.com/tuchk4/rockey) ⭐ 98 \| 🐛 3 \| 🌐 JavaScript \| 📅 2019-02-15                    |           |   ✅   |     |            | ✅        | ✅       |               | [rockey-react](https://github.com/tuchk4/rockey/tree/master/packages/rockey-react) ⭐ 98 \| 🐛 3 \| 🌐 JavaScript \| 📅 2019-02-15                                                                                                                                                |   |
-| [styled-components](https://github.com/styled-components/styled-components) ⭐ 41,101 \| 🐛 24 \| 🌐 TypeScript \| 📅 2026-09-28 |           |   ✅   |  ✅  | ✅          |          | ✅       | ✅             |                                                                                                                                                                                                                                                                                  |   |
+| [styled-components](https://github.com/styled-components/styled-components) ⭐ 41,100 \| 🐛 24 \| 🌐 TypeScript \| 📅 2026-09-28 |           |   ✅   |  ✅  | ✅          |          | ✅       | ✅             |                                                                                                                                                                                                                                                                                  |   |
 |                [aphrodite](https://github.com/Khan/aphrodite) ⭐ 5,338 \| 🐛 91 \| 🌐 JavaScript \| 📅 2025-07-24                |     ✅     |       |  ✅  |            | ✅        |         |               |                                                                                                                                                                                                                                                                                  |   |
 |                     [csx](https://github.com/jxnblk/cxs) ⭐ 1,180 \| 🐛 45 \| 🌐 JavaScript \| 📅 2022-12-08                     |     ✅     |       |  ✅  |            | ✅        |         |               |                                                                                                                                                                                                                                                                                  |   |
 |                  [glam](https://github.com/threepointone/glam) ⭐ 508 \| 🐛 13 \| 🌐 JavaScript \| 📅 2018-04-25                 |     ✅     |       |  ✅  |            | ✅        |         | ✅             |                                                                                                                                                                                                                                                                                  |   |
@@ -127,7 +127,7 @@ props => ({
 
 ## Benchmarks and comparison
 
-* [MicheleBertoli/css-in-js](https://github.com/MicheleBertoli/css-in-js) ⭐ 5,473 | 🐛 6 | 🌐 JavaScript | 📅 2024-04-02 React: CSS in JS techniques comparison.
+* [MicheleBertoli/css-in-js](https://github.com/MicheleBertoli/css-in-js) ⭐ 5,472 | 🐛 6 | 🌐 JavaScript | 📅 2024-04-02 React: CSS in JS techniques comparison.
 * [A-gambit/CSS-IN-JS-Benchmarks](https://github.com/A-gambit/CSS-IN-JS-Benchmarks) ⭐ 380 | 🐛 47 | 🌐 JavaScript | 📅 2023-01-12 [RESULTS.md](https://github.com/A-gambit/CSS-IN-JS-Benchmarks/blob/master/RESULT.md) ⭐ 380 | 🐛 47 | 🌐 JavaScript | 📅 2023-01-12
 * [tuchk4/css-in-js-app](https://github.com/tuchk4/css-in-js-app) ⭐ 43 | 🐛 2 | 🌐 JavaScript | 📅 2018-07-03 - React application with different css-in-js approaches and libraries.
 * [hellofresh/css-in-js-perf-tests](https://github.com/hellofresh/css-in-js-perf-tests) - CSS-in-JS performance tests
@@ -136,4 +136,4 @@ props => ({
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
