@@ -19,7 +19,7 @@
             "open_issues": 24,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41100,
+            "stars": 41097,
             "topics": [
               "css",
               "css-in-js",
@@ -460,7 +460,7 @@
             "open_issues": 396,
             "owner": "emotion-js",
             "repo": "emotion",
-            "stars": 18020,
+            "stars": 18018,
             "topics": [
               "babel-plugin",
               "css",
@@ -504,7 +504,7 @@
         {
           "node_type": "item",
           "title": "jss",
-          "description": null,
+          "description": "cssinjs/jss",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -533,7 +533,7 @@
         {
           "node_type": "item",
           "title": "rockey",
-          "description": null,
+          "description": "tuchk4/rockey",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -560,7 +560,7 @@
         {
           "node_type": "item",
           "title": "rockey-react",
-          "description": null,
+          "description": "tuchk4/rockey",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -587,7 +587,7 @@
         {
           "node_type": "item",
           "title": "styled-components",
-          "description": "✅ ✅ ✅  ✅ ✅",
+          "description": "styled-components/styled-components",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -600,7 +600,7 @@
             "open_issues": 24,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41100,
+            "stars": 41097,
             "topics": [
               "css",
               "css-in-js",
@@ -615,7 +615,7 @@
         {
           "node_type": "item",
           "title": "aphrodite",
-          "description": "✅  ✅  ✅",
+          "description": "Khan/aphrodite",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -641,7 +641,7 @@
         {
           "node_type": "item",
           "title": "csx",
-          "description": "✅  ✅  ✅",
+          "description": "cxs-css/cxs",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -662,7 +662,7 @@
         {
           "node_type": "item",
           "title": "glam",
-          "description": "✅  ✅  ✅  ✅",
+          "description": "threepointone/glam",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -686,7 +686,7 @@
         {
           "node_type": "item",
           "title": "glamor",
-          "description": "✅  ✅  ✅  ✅",
+          "description": "threepointone/glamor",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -707,7 +707,7 @@
         {
           "node_type": "item",
           "title": "glamorous",
-          "description": "✅  ✅ ✅  ✅",
+          "description": "paypal/glamorous",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -734,7 +734,7 @@
         {
           "node_type": "item",
           "title": "styletron",
-          "description": null,
+          "description": "styletron/styletron",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -761,7 +761,7 @@
         {
           "node_type": "item",
           "title": "styletron-react",
-          "description": null,
+          "description": "styletron/styletron",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -788,7 +788,7 @@
         {
           "node_type": "item",
           "title": "aesthetic",
-          "description": "✅    ✅",
+          "description": "aesthetic-suite/framework",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -819,7 +819,7 @@
         {
           "node_type": "item",
           "title": "j2c",
-          "description": "✅  ✅  ✅",
+          "description": "j2css/j2c",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -933,7 +933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T06:59:32.550Z",
+    "last_updated": "2026-10-03T04:40:01.059Z",
     "original_repository_info": {
       "archived": false,
       "description": " Awesome CSS in JS articles / tutorials / videos / benchmarks / comparision",
