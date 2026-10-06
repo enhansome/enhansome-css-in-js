@@ -47,7 +47,7 @@
             "open_issues": 73,
             "owner": "callstack",
             "repo": "linaria",
-            "stars": 12350,
+            "stars": 12349,
             "topics": [
               "css",
               "css-in-js",
@@ -933,7 +933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T07:33:26.642Z",
+    "last_updated": "2026-10-06T10:59:06.041Z",
     "original_repository_info": {
       "archived": false,
       "description": " Awesome CSS in JS articles / tutorials / videos / benchmarks / comparision",
