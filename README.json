@@ -19,7 +19,7 @@
             "open_issues": 24,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41099,
+            "stars": 41096,
             "topics": [
               "css",
               "css-in-js",
@@ -47,7 +47,7 @@
             "open_issues": 73,
             "owner": "callstack",
             "repo": "linaria",
-            "stars": 12351,
+            "stars": 12350,
             "topics": [
               "css",
               "css-in-js",
@@ -225,7 +225,7 @@
             "open_issues": 36,
             "owner": "styletron",
             "repo": "styletron",
-            "stars": 3307,
+            "stars": 3306,
             "topics": [
               "atomic-css",
               "css",
@@ -460,7 +460,7 @@
             "open_issues": 396,
             "owner": "emotion-js",
             "repo": "emotion",
-            "stars": 18019,
+            "stars": 18020,
             "topics": [
               "babel-plugin",
               "css",
@@ -600,7 +600,7 @@
             "open_issues": 24,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41099,
+            "stars": 41096,
             "topics": [
               "css",
               "css-in-js",
@@ -747,7 +747,7 @@
             "open_issues": 36,
             "owner": "styletron",
             "repo": "styletron",
-            "stars": 3307,
+            "stars": 3306,
             "topics": [
               "atomic-css",
               "css",
@@ -774,7 +774,7 @@
             "open_issues": 36,
             "owner": "styletron",
             "repo": "styletron",
-            "stars": 3307,
+            "stars": 3306,
             "topics": [
               "atomic-css",
               "css",
@@ -933,7 +933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T07:01:42.441Z",
+    "last_updated": "2026-10-06T07:33:26.642Z",
     "original_repository_info": {
       "archived": false,
       "description": " Awesome CSS in JS articles / tutorials / videos / benchmarks / comparision",
