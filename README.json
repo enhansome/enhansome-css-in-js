@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-28T13:11:19Z",
-            "open_issues": 24,
+            "open_issues": 20,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41094,
+            "stars": 41093,
             "topics": [
               "css",
               "css-in-js",
@@ -73,7 +73,7 @@
             "open_issues": 83,
             "owner": "vercel",
             "repo": "styled-jsx",
-            "stars": 7775,
+            "stars": 7774,
             "topics": [
               "css",
               "css-in-js",
@@ -101,7 +101,7 @@
             "open_issues": 83,
             "owner": "FormidableLabs",
             "repo": "radium",
-            "stars": 7331,
+            "stars": 7330,
             "topics": []
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
@@ -460,7 +460,7 @@
             "open_issues": 396,
             "owner": "emotion-js",
             "repo": "emotion",
-            "stars": 18021,
+            "stars": 18020,
             "topics": [
               "babel-plugin",
               "css",
@@ -597,10 +597,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-28T13:11:19Z",
-            "open_issues": 24,
+            "open_issues": 20,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41094,
+            "stars": 41093,
             "topics": [
               "css",
               "css-in-js",
@@ -933,7 +933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T07:13:12.788Z",
+    "last_updated": "2026-10-08T07:23:00.787Z",
     "original_repository_info": {
       "archived": false,
       "description": " Awesome CSS in JS articles / tutorials / videos / benchmarks / comparision",
