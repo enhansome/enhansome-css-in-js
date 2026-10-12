@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-10T21:52:17Z",
-            "open_issues": 24,
+            "open_issues": 23,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41089,
+            "stars": 41088,
             "topics": [
               "css",
               "css-in-js",
@@ -101,7 +101,7 @@
             "open_issues": 83,
             "owner": "FormidableLabs",
             "repo": "radium",
-            "stars": 7329,
+            "stars": 7328,
             "topics": []
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
@@ -122,7 +122,7 @@
             "open_issues": 225,
             "owner": "cssinjs",
             "repo": "jss",
-            "stars": 7047,
+            "stars": 7046,
             "topics": [
               "components",
               "css",
@@ -517,7 +517,7 @@
             "open_issues": 225,
             "owner": "cssinjs",
             "repo": "jss",
-            "stars": 7047,
+            "stars": 7046,
             "topics": [
               "components",
               "css",
@@ -597,10 +597,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-10T21:52:17Z",
-            "open_issues": 24,
+            "open_issues": 23,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41089,
+            "stars": 41088,
             "topics": [
               "css",
               "css-in-js",
@@ -933,7 +933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T07:10:57.262Z",
+    "last_updated": "2026-10-12T07:20:09.812Z",
     "original_repository_info": {
       "archived": false,
       "description": " Awesome CSS in JS articles / tutorials / videos / benchmarks / comparision",
