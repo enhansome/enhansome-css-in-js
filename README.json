@@ -15,11 +15,11 @@
             "id": 65794292,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-10T21:52:17Z",
-            "open_issues": 23,
+            "last_commit": "2026-10-12T23:56:51Z",
+            "open_issues": 24,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41088,
+            "stars": 41092,
             "topics": [
               "css",
               "css-in-js",
@@ -73,7 +73,7 @@
             "open_issues": 83,
             "owner": "vercel",
             "repo": "styled-jsx",
-            "stars": 7773,
+            "stars": 7772,
             "topics": [
               "css",
               "css-in-js",
@@ -101,7 +101,7 @@
             "open_issues": 83,
             "owner": "FormidableLabs",
             "repo": "radium",
-            "stars": 7328,
+            "stars": 7327,
             "topics": []
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
@@ -151,7 +151,7 @@
             "open_issues": 91,
             "owner": "Khan",
             "repo": "aphrodite",
-            "stars": 5339,
+            "stars": 5338,
             "topics": [
               "aphrodite",
               "css",
@@ -177,7 +177,7 @@
             "open_issues": 72,
             "owner": "threepointone",
             "repo": "glamor",
-            "stars": 3667,
+            "stars": 3666,
             "topics": []
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
@@ -252,7 +252,7 @@
             "open_issues": 8,
             "owner": "robinweser",
             "repo": "fela",
-            "stars": 2282,
+            "stars": 2281,
             "topics": [
               "atomic-css",
               "components",
@@ -381,7 +381,7 @@
             "open_issues": 0,
             "owner": "aesthetic-suite",
             "repo": "framework",
-            "stars": 208,
+            "stars": 207,
             "topics": [
               "android",
               "atomic-css",
@@ -457,10 +457,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-08-28T09:30:54Z",
-            "open_issues": 396,
+            "open_issues": 398,
             "owner": "emotion-js",
             "repo": "emotion",
-            "stars": 18020,
+            "stars": 18017,
             "topics": [
               "babel-plugin",
               "css",
@@ -488,7 +488,7 @@
             "open_issues": 8,
             "owner": "robinweser",
             "repo": "fela",
-            "stars": 2282,
+            "stars": 2281,
             "topics": [
               "atomic-css",
               "components",
@@ -596,11 +596,11 @@
             "id": 65794292,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-10T21:52:17Z",
-            "open_issues": 23,
+            "last_commit": "2026-10-12T23:56:51Z",
+            "open_issues": 24,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41088,
+            "stars": 41092,
             "topics": [
               "css",
               "css-in-js",
@@ -628,7 +628,7 @@
             "open_issues": 91,
             "owner": "Khan",
             "repo": "aphrodite",
-            "stars": 5339,
+            "stars": 5338,
             "topics": [
               "aphrodite",
               "css",
@@ -699,7 +699,7 @@
             "open_issues": 72,
             "owner": "threepointone",
             "repo": "glamor",
-            "stars": 3667,
+            "stars": 3666,
             "topics": []
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
@@ -801,7 +801,7 @@
             "open_issues": 0,
             "owner": "aesthetic-suite",
             "repo": "framework",
-            "stars": 208,
+            "stars": 207,
             "topics": [
               "android",
               "atomic-css",
@@ -933,7 +933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T07:20:09.812Z",
+    "last_updated": "2026-10-13T07:41:39.135Z",
     "original_repository_info": {
       "archived": false,
       "description": " Awesome CSS in JS articles / tutorials / videos / benchmarks / comparision",
