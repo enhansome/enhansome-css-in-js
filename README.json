@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-12T23:56:51Z",
-            "open_issues": 24,
+            "open_issues": 25,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41092,
+            "stars": 41090,
             "topics": [
               "css",
               "css-in-js",
@@ -47,7 +47,7 @@
             "open_issues": 73,
             "owner": "callstack",
             "repo": "linaria",
-            "stars": 12350,
+            "stars": 12351,
             "topics": [
               "css",
               "css-in-js",
@@ -73,7 +73,7 @@
             "open_issues": 83,
             "owner": "vercel",
             "repo": "styled-jsx",
-            "stars": 7772,
+            "stars": 7774,
             "topics": [
               "css",
               "css-in-js",
@@ -151,7 +151,7 @@
             "open_issues": 91,
             "owner": "Khan",
             "repo": "aphrodite",
-            "stars": 5338,
+            "stars": 5339,
             "topics": [
               "aphrodite",
               "css",
@@ -177,7 +177,7 @@
             "open_issues": 72,
             "owner": "threepointone",
             "repo": "glamor",
-            "stars": 3666,
+            "stars": 3667,
             "topics": []
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
@@ -198,7 +198,7 @@
             "open_issues": 0,
             "owner": "paypal",
             "repo": "glamorous",
-            "stars": 3616,
+            "stars": 3617,
             "topics": [
               "css-in-js",
               "glamor",
@@ -225,7 +225,7 @@
             "open_issues": 36,
             "owner": "styletron",
             "repo": "styletron",
-            "stars": 3307,
+            "stars": 3309,
             "topics": [
               "atomic-css",
               "css",
@@ -252,7 +252,7 @@
             "open_issues": 8,
             "owner": "robinweser",
             "repo": "fela",
-            "stars": 2281,
+            "stars": 2282,
             "topics": [
               "atomic-css",
               "components",
@@ -302,7 +302,7 @@
             "open_issues": 13,
             "owner": "threepointone",
             "repo": "glam",
-            "stars": 508,
+            "stars": 509,
             "topics": [
               "babel-plugin",
               "css"
@@ -460,7 +460,7 @@
             "open_issues": 398,
             "owner": "emotion-js",
             "repo": "emotion",
-            "stars": 18017,
+            "stars": 18018,
             "topics": [
               "babel-plugin",
               "css",
@@ -488,7 +488,7 @@
             "open_issues": 8,
             "owner": "robinweser",
             "repo": "fela",
-            "stars": 2281,
+            "stars": 2282,
             "topics": [
               "atomic-css",
               "components",
@@ -597,10 +597,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-12T23:56:51Z",
-            "open_issues": 24,
+            "open_issues": 25,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41092,
+            "stars": 41090,
             "topics": [
               "css",
               "css-in-js",
@@ -628,7 +628,7 @@
             "open_issues": 91,
             "owner": "Khan",
             "repo": "aphrodite",
-            "stars": 5338,
+            "stars": 5339,
             "topics": [
               "aphrodite",
               "css",
@@ -675,7 +675,7 @@
             "open_issues": 13,
             "owner": "threepointone",
             "repo": "glam",
-            "stars": 508,
+            "stars": 509,
             "topics": [
               "babel-plugin",
               "css"
@@ -699,7 +699,7 @@
             "open_issues": 72,
             "owner": "threepointone",
             "repo": "glamor",
-            "stars": 3666,
+            "stars": 3667,
             "topics": []
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
@@ -720,7 +720,7 @@
             "open_issues": 0,
             "owner": "paypal",
             "repo": "glamorous",
-            "stars": 3616,
+            "stars": 3617,
             "topics": [
               "css-in-js",
               "glamor",
@@ -747,7 +747,7 @@
             "open_issues": 36,
             "owner": "styletron",
             "repo": "styletron",
-            "stars": 3307,
+            "stars": 3309,
             "topics": [
               "atomic-css",
               "css",
@@ -774,7 +774,7 @@
             "open_issues": 36,
             "owner": "styletron",
             "repo": "styletron",
-            "stars": 3307,
+            "stars": 3309,
             "topics": [
               "atomic-css",
               "css",
@@ -859,7 +859,7 @@
             "open_issues": 6,
             "owner": "MicheleBertoli",
             "repo": "css-in-js",
-            "stars": 5472,
+            "stars": 5473,
             "topics": [
               "css-in-js",
               "cssinjs"
@@ -933,7 +933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T07:41:39.135Z",
+    "last_updated": "2026-10-14T06:07:39.990Z",
     "original_repository_info": {
       "archived": false,
       "description": " Awesome CSS in JS articles / tutorials / videos / benchmarks / comparision",
