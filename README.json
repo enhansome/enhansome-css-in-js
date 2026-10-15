@@ -19,7 +19,7 @@
             "open_issues": 25,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41090,
+            "stars": 41089,
             "topics": [
               "css",
               "css-in-js",
@@ -198,7 +198,7 @@
             "open_issues": 0,
             "owner": "paypal",
             "repo": "glamorous",
-            "stars": 3617,
+            "stars": 3616,
             "topics": [
               "css-in-js",
               "glamor",
@@ -457,10 +457,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-08-28T09:30:54Z",
-            "open_issues": 398,
+            "open_issues": 399,
             "owner": "emotion-js",
             "repo": "emotion",
-            "stars": 18018,
+            "stars": 18015,
             "topics": [
               "babel-plugin",
               "css",
@@ -600,7 +600,7 @@
             "open_issues": 25,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41090,
+            "stars": 41089,
             "topics": [
               "css",
               "css-in-js",
@@ -720,7 +720,7 @@
             "open_issues": 0,
             "owner": "paypal",
             "repo": "glamorous",
-            "stars": 3617,
+            "stars": 3616,
             "topics": [
               "css-in-js",
               "glamor",
@@ -933,7 +933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T06:07:39.990Z",
+    "last_updated": "2026-10-15T05:53:57.503Z",
     "original_repository_info": {
       "archived": false,
       "description": " Awesome CSS in JS articles / tutorials / videos / benchmarks / comparision",
