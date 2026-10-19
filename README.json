@@ -15,11 +15,11 @@
             "id": 65794292,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-18T04:56:44Z",
-            "open_issues": 30,
+            "last_commit": "2026-10-19T02:55:32Z",
+            "open_issues": 25,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41090,
+            "stars": 41089,
             "topics": [
               "css",
               "css-in-js",
@@ -44,7 +44,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-17T14:45:50Z",
-            "open_issues": 74,
+            "open_issues": 75,
             "owner": "callstack",
             "repo": "linaria",
             "stars": 12350,
@@ -151,7 +151,7 @@
             "open_issues": 91,
             "owner": "Khan",
             "repo": "aphrodite",
-            "stars": 5339,
+            "stars": 5338,
             "topics": [
               "aphrodite",
               "css",
@@ -596,11 +596,11 @@
             "id": 65794292,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-18T04:56:44Z",
-            "open_issues": 30,
+            "last_commit": "2026-10-19T02:55:32Z",
+            "open_issues": 25,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41090,
+            "stars": 41089,
             "topics": [
               "css",
               "css-in-js",
@@ -628,7 +628,7 @@
             "open_issues": 91,
             "owner": "Khan",
             "repo": "aphrodite",
-            "stars": 5339,
+            "stars": 5338,
             "topics": [
               "aphrodite",
               "css",
@@ -859,7 +859,7 @@
             "open_issues": 6,
             "owner": "MicheleBertoli",
             "repo": "css-in-js",
-            "stars": 5473,
+            "stars": 5472,
             "topics": [
               "css-in-js",
               "cssinjs"
@@ -933,7 +933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T05:52:37.360Z",
+    "last_updated": "2026-10-19T06:11:41.454Z",
     "original_repository_info": {
       "archived": false,
       "description": " Awesome CSS in JS articles / tutorials / videos / benchmarks / comparision",
