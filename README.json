@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-19T02:55:32Z",
-            "open_issues": 25,
+            "open_issues": 26,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41089,
+            "stars": 41090,
             "topics": [
               "css",
               "css-in-js",
@@ -43,8 +43,8 @@
             "id": 92112844,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-17T14:45:50Z",
-            "open_issues": 75,
+            "last_commit": "2026-10-19T15:52:09Z",
+            "open_issues": 74,
             "owner": "callstack",
             "repo": "linaria",
             "stars": 12350,
@@ -101,7 +101,7 @@
             "open_issues": 83,
             "owner": "FormidableLabs",
             "repo": "radium",
-            "stars": 7327,
+            "stars": 7328,
             "topics": []
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
@@ -597,10 +597,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-19T02:55:32Z",
-            "open_issues": 25,
+            "open_issues": 26,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41089,
+            "stars": 41090,
             "topics": [
               "css",
               "css-in-js",
@@ -933,7 +933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T06:11:41.454Z",
+    "last_updated": "2026-10-20T06:00:08.371Z",
     "original_repository_info": {
       "archived": false,
       "description": " Awesome CSS in JS articles / tutorials / videos / benchmarks / comparision",
