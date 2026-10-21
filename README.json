@@ -19,7 +19,7 @@
             "open_issues": 26,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41090,
+            "stars": 41065,
             "topics": [
               "css",
               "css-in-js",
@@ -43,8 +43,8 @@
             "id": 92112844,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-19T15:52:09Z",
-            "open_issues": 74,
+            "last_commit": "2026-10-20T15:44:49Z",
+            "open_issues": 73,
             "owner": "callstack",
             "repo": "linaria",
             "stars": 12350,
@@ -101,7 +101,7 @@
             "open_issues": 83,
             "owner": "FormidableLabs",
             "repo": "radium",
-            "stars": 7328,
+            "stars": 7327,
             "topics": []
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
@@ -119,10 +119,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2024-08-13T19:53:12Z",
-            "open_issues": 225,
+            "open_issues": 224,
             "owner": "cssinjs",
             "repo": "jss",
-            "stars": 7046,
+            "stars": 7045,
             "topics": [
               "components",
               "css",
@@ -225,7 +225,7 @@
             "open_issues": 36,
             "owner": "styletron",
             "repo": "styletron",
-            "stars": 3309,
+            "stars": 3310,
             "topics": [
               "atomic-css",
               "css",
@@ -460,7 +460,7 @@
             "open_issues": 399,
             "owner": "emotion-js",
             "repo": "emotion",
-            "stars": 18016,
+            "stars": 18018,
             "topics": [
               "babel-plugin",
               "css",
@@ -514,10 +514,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2024-08-13T19:53:12Z",
-            "open_issues": 225,
+            "open_issues": 224,
             "owner": "cssinjs",
             "repo": "jss",
-            "stars": 7046,
+            "stars": 7045,
             "topics": [
               "components",
               "css",
@@ -600,7 +600,7 @@
             "open_issues": 26,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41090,
+            "stars": 41065,
             "topics": [
               "css",
               "css-in-js",
@@ -747,7 +747,7 @@
             "open_issues": 36,
             "owner": "styletron",
             "repo": "styletron",
-            "stars": 3309,
+            "stars": 3310,
             "topics": [
               "atomic-css",
               "css",
@@ -774,7 +774,7 @@
             "open_issues": 36,
             "owner": "styletron",
             "repo": "styletron",
-            "stars": 3309,
+            "stars": 3310,
             "topics": [
               "atomic-css",
               "css",
@@ -859,7 +859,7 @@
             "open_issues": 6,
             "owner": "MicheleBertoli",
             "repo": "css-in-js",
-            "stars": 5472,
+            "stars": 5471,
             "topics": [
               "css-in-js",
               "cssinjs"
@@ -933,7 +933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T06:00:08.371Z",
+    "last_updated": "2026-10-21T06:01:02.319Z",
     "original_repository_info": {
       "archived": false,
       "description": " Awesome CSS in JS articles / tutorials / videos / benchmarks / comparision",
