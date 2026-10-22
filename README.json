@@ -19,7 +19,7 @@
             "open_issues": 26,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41065,
+            "stars": 41064,
             "topics": [
               "css",
               "css-in-js",
@@ -43,8 +43,8 @@
             "id": 92112844,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-20T15:44:49Z",
-            "open_issues": 73,
+            "last_commit": "2026-10-21T14:39:09Z",
+            "open_issues": 72,
             "owner": "callstack",
             "repo": "linaria",
             "stars": 12350,
@@ -177,7 +177,7 @@
             "open_issues": 72,
             "owner": "threepointone",
             "repo": "glamor",
-            "stars": 3667,
+            "stars": 3666,
             "topics": []
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
@@ -460,7 +460,7 @@
             "open_issues": 399,
             "owner": "emotion-js",
             "repo": "emotion",
-            "stars": 18018,
+            "stars": 18019,
             "topics": [
               "babel-plugin",
               "css",
@@ -600,7 +600,7 @@
             "open_issues": 26,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41065,
+            "stars": 41064,
             "topics": [
               "css",
               "css-in-js",
@@ -699,7 +699,7 @@
             "open_issues": 72,
             "owner": "threepointone",
             "repo": "glamor",
-            "stars": 3667,
+            "stars": 3666,
             "topics": []
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
@@ -933,7 +933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T06:01:02.319Z",
+    "last_updated": "2026-10-22T06:06:23.829Z",
     "original_repository_info": {
       "archived": false,
       "description": " Awesome CSS in JS articles / tutorials / videos / benchmarks / comparision",
