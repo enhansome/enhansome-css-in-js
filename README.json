@@ -19,7 +19,7 @@
             "open_issues": 26,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41064,
+            "stars": 41063,
             "topics": [
               "css",
               "css-in-js",
@@ -43,11 +43,11 @@
             "id": 92112844,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-21T14:39:09Z",
+            "last_commit": "2026-10-22T15:58:29Z",
             "open_issues": 72,
             "owner": "callstack",
             "repo": "linaria",
-            "stars": 12350,
+            "stars": 12349,
             "topics": [
               "css",
               "css-in-js",
@@ -73,7 +73,7 @@
             "open_issues": 83,
             "owner": "vercel",
             "repo": "styled-jsx",
-            "stars": 7774,
+            "stars": 7773,
             "topics": [
               "css",
               "css-in-js",
@@ -101,7 +101,7 @@
             "open_issues": 83,
             "owner": "FormidableLabs",
             "repo": "radium",
-            "stars": 7327,
+            "stars": 7326,
             "topics": []
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
@@ -460,7 +460,7 @@
             "open_issues": 399,
             "owner": "emotion-js",
             "repo": "emotion",
-            "stars": 18019,
+            "stars": 18018,
             "topics": [
               "babel-plugin",
               "css",
@@ -600,7 +600,7 @@
             "open_issues": 26,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41064,
+            "stars": 41063,
             "topics": [
               "css",
               "css-in-js",
@@ -859,7 +859,7 @@
             "open_issues": 6,
             "owner": "MicheleBertoli",
             "repo": "css-in-js",
-            "stars": 5471,
+            "stars": 5470,
             "topics": [
               "css-in-js",
               "cssinjs"
@@ -933,7 +933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T06:06:23.829Z",
+    "last_updated": "2026-10-23T06:01:46.429Z",
     "original_repository_info": {
       "archived": false,
       "description": " Awesome CSS in JS articles / tutorials / videos / benchmarks / comparision",
