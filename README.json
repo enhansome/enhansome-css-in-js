@@ -19,7 +19,7 @@
             "open_issues": 26,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41061,
+            "stars": 41062,
             "topics": [
               "css",
               "css-in-js",
@@ -43,7 +43,7 @@
             "id": 92112844,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-23T18:10:06Z",
+            "last_commit": "2026-10-24T19:36:35Z",
             "open_issues": 72,
             "owner": "callstack",
             "repo": "linaria",
@@ -73,7 +73,7 @@
             "open_issues": 83,
             "owner": "vercel",
             "repo": "styled-jsx",
-            "stars": 7773,
+            "stars": 7774,
             "topics": [
               "css",
               "css-in-js",
@@ -252,7 +252,7 @@
             "open_issues": 8,
             "owner": "robinweser",
             "repo": "fela",
-            "stars": 2282,
+            "stars": 2281,
             "topics": [
               "atomic-css",
               "components",
@@ -460,7 +460,7 @@
             "open_issues": 400,
             "owner": "emotion-js",
             "repo": "emotion",
-            "stars": 18019,
+            "stars": 18020,
             "topics": [
               "babel-plugin",
               "css",
@@ -488,7 +488,7 @@
             "open_issues": 8,
             "owner": "robinweser",
             "repo": "fela",
-            "stars": 2282,
+            "stars": 2281,
             "topics": [
               "atomic-css",
               "components",
@@ -600,7 +600,7 @@
             "open_issues": 26,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41061,
+            "stars": 41062,
             "topics": [
               "css",
               "css-in-js",
@@ -933,7 +933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T05:51:01.684Z",
+    "last_updated": "2026-10-25T06:05:56.009Z",
     "original_repository_info": {
       "archived": false,
       "description": " Awesome CSS in JS articles / tutorials / videos / benchmarks / comparision",
