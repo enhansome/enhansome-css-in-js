@@ -43,11 +43,11 @@
             "id": 92112844,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-24T19:36:35Z",
+            "last_commit": "2026-10-25T20:17:24Z",
             "open_issues": 72,
             "owner": "callstack",
             "repo": "linaria",
-            "stars": 12350,
+            "stars": 12351,
             "topics": [
               "css",
               "css-in-js",
@@ -73,7 +73,7 @@
             "open_issues": 83,
             "owner": "vercel",
             "repo": "styled-jsx",
-            "stars": 7774,
+            "stars": 7775,
             "topics": [
               "css",
               "css-in-js",
@@ -101,7 +101,7 @@
             "open_issues": 83,
             "owner": "FormidableLabs",
             "repo": "radium",
-            "stars": 7326,
+            "stars": 7328,
             "topics": []
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
@@ -151,7 +151,7 @@
             "open_issues": 91,
             "owner": "Khan",
             "repo": "aphrodite",
-            "stars": 5338,
+            "stars": 5339,
             "topics": [
               "aphrodite",
               "css",
@@ -460,7 +460,7 @@
             "open_issues": 400,
             "owner": "emotion-js",
             "repo": "emotion",
-            "stars": 18020,
+            "stars": 18022,
             "topics": [
               "babel-plugin",
               "css",
@@ -628,7 +628,7 @@
             "open_issues": 91,
             "owner": "Khan",
             "repo": "aphrodite",
-            "stars": 5338,
+            "stars": 5339,
             "topics": [
               "aphrodite",
               "css",
@@ -859,7 +859,7 @@
             "open_issues": 6,
             "owner": "MicheleBertoli",
             "repo": "css-in-js",
-            "stars": 5470,
+            "stars": 5471,
             "topics": [
               "css-in-js",
               "cssinjs"
@@ -933,7 +933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T06:05:56.009Z",
+    "last_updated": "2026-10-26T06:11:26.986Z",
     "original_repository_info": {
       "archived": false,
       "description": " Awesome CSS in JS articles / tutorials / videos / benchmarks / comparision",
