@@ -14,8 +14,8 @@ A collection of awesome things regarding to CSS in JS approach
 ## Libraries
 
 * [styled-components](https://github.com/styled-components/styled-components) ⭐ 41,060 | 🐛 26 | 🌐 TypeScript | 📅 2026-10-19 - Universal, Dynamic & High-Performance Styling in JavaScript
-* [linaria](https://github.com/callstack/linaria) ⭐ 12,351 | 🐛 71 | 🌐 TypeScript | 📅 2026-10-26 - Zero-runtime CSS in JS library
-* [styled-jsx](https://github.com/zeit/styled-jsx) ⭐ 7,774 | 🐛 83 | 🌐 JavaScript | 📅 2026-06-09 - Full CSS support for JSX without compromises
+* [linaria](https://github.com/callstack/linaria) ⭐ 12,352 | 🐛 71 | 🌐 TypeScript | 📅 2026-10-26 - Zero-runtime CSS in JS library
+* [styled-jsx](https://github.com/zeit/styled-jsx) ⭐ 7,773 | 🐛 83 | 🌐 JavaScript | 📅 2026-06-09 - Full CSS support for JSX without compromises
 * [radium](https://github.com/FormidableLabs/radium) ⚠️ Archived - Set of tools to manage inline styles on React elements.
 * [jss](https://github.com/cssinjs/jss) ⭐ 7,044 | 🐛 224 | 🌐 JavaScript | 📅 2024-08-13 - JSS is a CSS authoring tool which uses JavaScript as a host language
 * [aphrodite](https://github.com/Khan/aphrodite) ⭐ 5,339 | 🐛 91 | 🌐 JavaScript | 📅 2025-07-24 - It's inline styles, but they work! Also supports styling via CSS
@@ -136,4 +136,4 @@ props => ({
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._

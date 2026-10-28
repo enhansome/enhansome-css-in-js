@@ -47,7 +47,7 @@
             "open_issues": 71,
             "owner": "callstack",
             "repo": "linaria",
-            "stars": 12351,
+            "stars": 12352,
             "topics": [
               "css",
               "css-in-js",
@@ -73,7 +73,7 @@
             "open_issues": 83,
             "owner": "vercel",
             "repo": "styled-jsx",
-            "stars": 7774,
+            "stars": 7773,
             "topics": [
               "css",
               "css-in-js",
@@ -198,7 +198,7 @@
             "open_issues": 0,
             "owner": "paypal",
             "repo": "glamorous",
-            "stars": 3616,
+            "stars": 3615,
             "topics": [
               "css-in-js",
               "glamor",
@@ -720,7 +720,7 @@
             "open_issues": 0,
             "owner": "paypal",
             "repo": "glamorous",
-            "stars": 3616,
+            "stars": 3615,
             "topics": [
               "css-in-js",
               "glamor",
@@ -933,7 +933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T06:15:17.836Z",
+    "last_updated": "2026-10-28T06:50:44.231Z",
     "original_repository_info": {
       "archived": false,
       "description": " Awesome CSS in JS articles / tutorials / videos / benchmarks / comparision",
