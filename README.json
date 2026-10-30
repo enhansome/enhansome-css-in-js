@@ -15,11 +15,11 @@
             "id": 65794292,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-19T02:55:32Z",
-            "open_issues": 26,
+            "last_commit": "2026-10-29T20:44:35Z",
+            "open_issues": 29,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41060,
+            "stars": 41057,
             "topics": [
               "css",
               "css-in-js",
@@ -47,7 +47,7 @@
             "open_issues": 72,
             "owner": "callstack",
             "repo": "linaria",
-            "stars": 12352,
+            "stars": 12353,
             "topics": [
               "css",
               "css-in-js",
@@ -101,7 +101,7 @@
             "open_issues": 83,
             "owner": "FormidableLabs",
             "repo": "radium",
-            "stars": 7328,
+            "stars": 7327,
             "topics": []
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
@@ -151,7 +151,7 @@
             "open_issues": 91,
             "owner": "Khan",
             "repo": "aphrodite",
-            "stars": 5339,
+            "stars": 5338,
             "topics": [
               "aphrodite",
               "css",
@@ -252,7 +252,7 @@
             "open_issues": 8,
             "owner": "robinweser",
             "repo": "fela",
-            "stars": 2281,
+            "stars": 2280,
             "topics": [
               "atomic-css",
               "components",
@@ -352,7 +352,7 @@
             "open_issues": 20,
             "owner": "cssinjs",
             "repo": "styled-jss",
-            "stars": 214,
+            "stars": 213,
             "topics": [
               "css",
               "js",
@@ -412,7 +412,7 @@
             "open_issues": 9,
             "owner": "j2css",
             "repo": "j2c",
-            "stars": 165,
+            "stars": 164,
             "topics": []
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
@@ -460,7 +460,7 @@
             "open_issues": 400,
             "owner": "emotion-js",
             "repo": "emotion",
-            "stars": 18025,
+            "stars": 18026,
             "topics": [
               "babel-plugin",
               "css",
@@ -488,7 +488,7 @@
             "open_issues": 8,
             "owner": "robinweser",
             "repo": "fela",
-            "stars": 2281,
+            "stars": 2280,
             "topics": [
               "atomic-css",
               "components",
@@ -596,11 +596,11 @@
             "id": 65794292,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-19T02:55:32Z",
-            "open_issues": 26,
+            "last_commit": "2026-10-29T20:44:35Z",
+            "open_issues": 29,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41060,
+            "stars": 41057,
             "topics": [
               "css",
               "css-in-js",
@@ -628,7 +628,7 @@
             "open_issues": 91,
             "owner": "Khan",
             "repo": "aphrodite",
-            "stars": 5339,
+            "stars": 5338,
             "topics": [
               "aphrodite",
               "css",
@@ -832,7 +832,7 @@
             "open_issues": 9,
             "owner": "j2css",
             "repo": "j2c",
-            "stars": 165,
+            "stars": 164,
             "topics": []
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
@@ -933,7 +933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T07:02:56.413Z",
+    "last_updated": "2026-10-30T07:04:45.558Z",
     "original_repository_info": {
       "archived": false,
       "description": " Awesome CSS in JS articles / tutorials / videos / benchmarks / comparision",
