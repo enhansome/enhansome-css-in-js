@@ -19,7 +19,7 @@
             "open_issues": 29,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41057,
+            "stars": 41058,
             "topics": [
               "css",
               "css-in-js",
@@ -198,7 +198,7 @@
             "open_issues": 0,
             "owner": "paypal",
             "repo": "glamorous",
-            "stars": 3615,
+            "stars": 3614,
             "topics": [
               "css-in-js",
               "glamor",
@@ -225,7 +225,7 @@
             "open_issues": 36,
             "owner": "styletron",
             "repo": "styletron",
-            "stars": 3310,
+            "stars": 3309,
             "topics": [
               "atomic-css",
               "css",
@@ -252,7 +252,7 @@
             "open_issues": 8,
             "owner": "robinweser",
             "repo": "fela",
-            "stars": 2280,
+            "stars": 2279,
             "topics": [
               "atomic-css",
               "components",
@@ -281,7 +281,7 @@
             "open_issues": 45,
             "owner": "cxs-css",
             "repo": "cxs",
-            "stars": 1180,
+            "stars": 1181,
             "topics": []
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
@@ -302,7 +302,7 @@
             "open_issues": 13,
             "owner": "threepointone",
             "repo": "glam",
-            "stars": 509,
+            "stars": 508,
             "topics": [
               "babel-plugin",
               "css"
@@ -326,7 +326,7 @@
             "open_issues": 13,
             "owner": "streamich",
             "repo": "freestyler",
-            "stars": 271,
+            "stars": 270,
             "topics": [
               "css",
               "css-in-js",
@@ -460,7 +460,7 @@
             "open_issues": 400,
             "owner": "emotion-js",
             "repo": "emotion",
-            "stars": 18026,
+            "stars": 18024,
             "topics": [
               "babel-plugin",
               "css",
@@ -488,7 +488,7 @@
             "open_issues": 8,
             "owner": "robinweser",
             "repo": "fela",
-            "stars": 2280,
+            "stars": 2279,
             "topics": [
               "atomic-css",
               "components",
@@ -600,7 +600,7 @@
             "open_issues": 29,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41057,
+            "stars": 41058,
             "topics": [
               "css",
               "css-in-js",
@@ -654,7 +654,7 @@
             "open_issues": 45,
             "owner": "cxs-css",
             "repo": "cxs",
-            "stars": 1180,
+            "stars": 1181,
             "topics": []
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
@@ -675,7 +675,7 @@
             "open_issues": 13,
             "owner": "threepointone",
             "repo": "glam",
-            "stars": 509,
+            "stars": 508,
             "topics": [
               "babel-plugin",
               "css"
@@ -720,7 +720,7 @@
             "open_issues": 0,
             "owner": "paypal",
             "repo": "glamorous",
-            "stars": 3615,
+            "stars": 3614,
             "topics": [
               "css-in-js",
               "glamor",
@@ -747,7 +747,7 @@
             "open_issues": 36,
             "owner": "styletron",
             "repo": "styletron",
-            "stars": 3310,
+            "stars": 3309,
             "topics": [
               "atomic-css",
               "css",
@@ -774,7 +774,7 @@
             "open_issues": 36,
             "owner": "styletron",
             "repo": "styletron",
-            "stars": 3310,
+            "stars": 3309,
             "topics": [
               "atomic-css",
               "css",
@@ -933,7 +933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T07:04:45.558Z",
+    "last_updated": "2026-10-31T06:59:05.877Z",
     "original_repository_info": {
       "archived": false,
       "description": " Awesome CSS in JS articles / tutorials / videos / benchmarks / comparision",
