@@ -14,7 +14,7 @@ A collection of awesome things regarding to CSS in JS approach
 ## Libraries
 
 * [styled-components](https://github.com/styled-components/styled-components) ⭐ 41,058 | 🐛 29 | 🌐 TypeScript | 📅 2026-10-29 - Universal, Dynamic & High-Performance Styling in JavaScript
-* [linaria](https://github.com/callstack/linaria) ⭐ 12,353 | 🐛 72 | 🌐 TypeScript | 📅 2026-10-26 - Zero-runtime CSS in JS library
+* [linaria](https://github.com/callstack/linaria) ⭐ 12,352 | 🐛 72 | 🌐 TypeScript | 📅 2026-10-26 - Zero-runtime CSS in JS library
 * [styled-jsx](https://github.com/zeit/styled-jsx) ⭐ 7,773 | 🐛 83 | 🌐 JavaScript | 📅 2026-06-09 - Full CSS support for JSX without compromises
 * [radium](https://github.com/FormidableLabs/radium) ⚠️ Archived - Set of tools to manage inline styles on React elements.
 * [jss](https://github.com/cssinjs/jss) ⭐ 7,043 | 🐛 224 | 🌐 JavaScript | 📅 2024-08-13 - JSS is a CSS authoring tool which uses JavaScript as a host language
@@ -85,7 +85,7 @@ props => ({
 
 |                                                             Package                                                             | As Object | As TL | SSR | RN Support | Agnostic | Dynamic | Babel plugins | Bindings                                                                                                                                                                                                                                                                         |   |
 | :-----------------------------------------------------------------------------------------------------------------------------: | :-------: | :---: | :-: | ---------- | -------- | ------- | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - |
-|              [emotion](https://github.com/emotion-js/emotion) ⭐ 18,024 \| 🐛 400 \| 🌐 JavaScript \| 📅 2026-10-23              |     ✅     |   ✅   |  ✅  | ✅          | ✅        | ✅       | ✅             | react-emotion, preact-emotion                                                                                                                                                                                                                                                    |   |
+|              [emotion](https://github.com/emotion-js/emotion) ⭐ 18,025 \| 🐛 400 \| 🌐 JavaScript \| 📅 2026-10-23              |     ✅     |   ✅   |  ✅  | ✅          | ✅        | ✅       | ✅             | react-emotion, preact-emotion                                                                                                                                                                                                                                                    |   |
 |                 [fela](https://github.com/rofrischmann/fela/) ⭐ 2,279 \| 🐛 8 \| 🌐 JavaScript \| 📅 2024-11-06                 |     ✅     |       |  ✅  | ✅          | ✅        | ✅       |               | [react-fela](http://fela.js.org/docs/guides/UsageWithReact.html) [native-fela](http://fela.js.org/docs/guides/UsageWithReactNative.html) [preact-fela](http://fela.js.org/docs/guides/UsageWithPreact.html) [inferno-fela](http://fela.js.org/docs/guides/UsageWithInferno.html) |   |
 |                    [jss](https://github.com/cssinjs/jss) ⭐ 7,043 \| 🐛 224 \| 🌐 JavaScript \| 📅 2024-08-13                    |     ✅     |   ✅   |  ✅  |            | ✅        | ✅       | ✅             | [react-jss](https://github.com/cssinjs/react-jss) [styled-jss](https://github.com/cssinjs/styled-jss) ⭐ 213 \| 🐛 20 \| 🌐 JavaScript \| 📅 2018-12-31                                                                                                                           |   |
 |                    [rockey](https://github.com/tuchk4/rockey) ⭐ 98 \| 🐛 3 \| 🌐 JavaScript \| 📅 2019-02-15                    |           |   ✅   |     |            | ✅        | ✅       |               | [rockey-react](https://github.com/tuchk4/rockey/tree/master/packages/rockey-react) ⭐ 98 \| 🐛 3 \| 🌐 JavaScript \| 📅 2019-02-15                                                                                                                                                |   |
@@ -136,4 +136,4 @@ props => ({
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
