@@ -15,11 +15,11 @@
             "id": 65794292,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-03T05:18:25Z",
+            "last_commit": "2026-11-04T05:05:44Z",
             "open_issues": 23,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41054,
+            "stars": 41050,
             "topics": [
               "css",
               "css-in-js",
@@ -47,7 +47,7 @@
             "open_issues": 72,
             "owner": "callstack",
             "repo": "linaria",
-            "stars": 12352,
+            "stars": 12351,
             "topics": [
               "css",
               "css-in-js",
@@ -596,11 +596,11 @@
             "id": 65794292,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-03T05:18:25Z",
+            "last_commit": "2026-11-04T05:05:44Z",
             "open_issues": 23,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41054,
+            "stars": 41050,
             "topics": [
               "css",
               "css-in-js",
@@ -933,7 +933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T07:54:26.627Z",
+    "last_updated": "2026-11-04T07:29:07.940Z",
     "original_repository_info": {
       "archived": false,
       "description": " Awesome CSS in JS articles / tutorials / videos / benchmarks / comparision",
