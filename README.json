@@ -15,11 +15,11 @@
             "id": 65794292,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-04T05:05:44Z",
-            "open_issues": 23,
+            "last_commit": "2026-11-05T00:10:42Z",
+            "open_issues": 20,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41050,
+            "stars": 41048,
             "topics": [
               "css",
               "css-in-js",
@@ -43,11 +43,11 @@
             "id": 92112844,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-02T11:10:47Z",
-            "open_issues": 72,
+            "last_commit": "2026-11-04T15:32:30Z",
+            "open_issues": 66,
             "owner": "callstack",
             "repo": "linaria",
-            "stars": 12351,
+            "stars": 12350,
             "topics": [
               "css",
               "css-in-js",
@@ -73,7 +73,7 @@
             "open_issues": 83,
             "owner": "vercel",
             "repo": "styled-jsx",
-            "stars": 7772,
+            "stars": 7770,
             "topics": [
               "css",
               "css-in-js",
@@ -101,7 +101,7 @@
             "open_issues": 83,
             "owner": "FormidableLabs",
             "repo": "radium",
-            "stars": 7327,
+            "stars": 7326,
             "topics": []
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
@@ -252,7 +252,7 @@
             "open_issues": 8,
             "owner": "robinweser",
             "repo": "fela",
-            "stars": 2279,
+            "stars": 2278,
             "topics": [
               "atomic-css",
               "components",
@@ -460,7 +460,7 @@
             "open_issues": 400,
             "owner": "emotion-js",
             "repo": "emotion",
-            "stars": 18023,
+            "stars": 18022,
             "topics": [
               "babel-plugin",
               "css",
@@ -488,7 +488,7 @@
             "open_issues": 8,
             "owner": "robinweser",
             "repo": "fela",
-            "stars": 2279,
+            "stars": 2278,
             "topics": [
               "atomic-css",
               "components",
@@ -596,11 +596,11 @@
             "id": 65794292,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-04T05:05:44Z",
-            "open_issues": 23,
+            "last_commit": "2026-11-05T00:10:42Z",
+            "open_issues": 20,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41050,
+            "stars": 41048,
             "topics": [
               "css",
               "css-in-js",
@@ -933,7 +933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T07:29:07.940Z",
+    "last_updated": "2026-11-05T07:54:26.794Z",
     "original_repository_info": {
       "archived": false,
       "description": " Awesome CSS in JS articles / tutorials / videos / benchmarks / comparision",
