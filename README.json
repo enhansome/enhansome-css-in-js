@@ -15,11 +15,11 @@
             "id": 65794292,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-05T20:42:09Z",
-            "open_issues": 20,
+            "last_commit": "2026-11-07T04:51:59Z",
+            "open_issues": 22,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41049,
+            "stars": 41047,
             "topics": [
               "css",
               "css-in-js",
@@ -198,7 +198,7 @@
             "open_issues": 0,
             "owner": "paypal",
             "repo": "glamorous",
-            "stars": 3614,
+            "stars": 3613,
             "topics": [
               "css-in-js",
               "glamor",
@@ -460,7 +460,7 @@
             "open_issues": 400,
             "owner": "emotion-js",
             "repo": "emotion",
-            "stars": 18022,
+            "stars": 18023,
             "topics": [
               "babel-plugin",
               "css",
@@ -596,11 +596,11 @@
             "id": 65794292,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-05T20:42:09Z",
-            "open_issues": 20,
+            "last_commit": "2026-11-07T04:51:59Z",
+            "open_issues": 22,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41049,
+            "stars": 41047,
             "topics": [
               "css",
               "css-in-js",
@@ -720,7 +720,7 @@
             "open_issues": 0,
             "owner": "paypal",
             "repo": "glamorous",
-            "stars": 3614,
+            "stars": 3613,
             "topics": [
               "css-in-js",
               "glamor",
@@ -933,7 +933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T07:54:54.667Z",
+    "last_updated": "2026-11-07T07:07:48.524Z",
     "original_repository_info": {
       "archived": false,
       "description": " Awesome CSS in JS articles / tutorials / videos / benchmarks / comparision",
