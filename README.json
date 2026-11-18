@@ -19,7 +19,7 @@
             "open_issues": 30,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41046,
+            "stars": 41048,
             "topics": [
               "css",
               "css-in-js",
@@ -47,7 +47,7 @@
             "open_issues": 63,
             "owner": "callstack",
             "repo": "linaria",
-            "stars": 12351,
+            "stars": 12353,
             "topics": [
               "css",
               "css-in-js",
@@ -460,7 +460,7 @@
             "open_issues": 403,
             "owner": "emotion-js",
             "repo": "emotion",
-            "stars": 18025,
+            "stars": 18027,
             "topics": [
               "babel-plugin",
               "css",
@@ -600,7 +600,7 @@
             "open_issues": 30,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41046,
+            "stars": 41048,
             "topics": [
               "css",
               "css-in-js",
@@ -933,7 +933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T09:11:46.292Z",
+    "last_updated": "2026-11-18T08:31:39.174Z",
     "original_repository_info": {
       "archived": false,
       "description": " Awesome CSS in JS articles / tutorials / videos / benchmarks / comparision",
