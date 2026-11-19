@@ -122,7 +122,7 @@
             "open_issues": 218,
             "owner": "cssinjs",
             "repo": "jss",
-            "stars": 7042,
+            "stars": 7041,
             "topics": [
               "components",
               "css",
@@ -252,7 +252,7 @@
             "open_issues": 8,
             "owner": "robinweser",
             "repo": "fela",
-            "stars": 2278,
+            "stars": 2279,
             "topics": [
               "atomic-css",
               "components",
@@ -488,7 +488,7 @@
             "open_issues": 8,
             "owner": "robinweser",
             "repo": "fela",
-            "stars": 2278,
+            "stars": 2279,
             "topics": [
               "atomic-css",
               "components",
@@ -517,7 +517,7 @@
             "open_issues": 218,
             "owner": "cssinjs",
             "repo": "jss",
-            "stars": 7042,
+            "stars": 7041,
             "topics": [
               "components",
               "css",
@@ -933,7 +933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T08:31:39.174Z",
+    "last_updated": "2026-11-19T08:46:28.071Z",
     "original_repository_info": {
       "archived": false,
       "description": " Awesome CSS in JS articles / tutorials / videos / benchmarks / comparision",
