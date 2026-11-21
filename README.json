@@ -73,7 +73,7 @@
             "open_issues": 83,
             "owner": "vercel",
             "repo": "styled-jsx",
-            "stars": 7770,
+            "stars": 7771,
             "topics": [
               "css",
               "css-in-js",
@@ -177,7 +177,7 @@
             "open_issues": 72,
             "owner": "threepointone",
             "repo": "glamor",
-            "stars": 3666,
+            "stars": 3665,
             "topics": []
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
@@ -460,7 +460,7 @@
             "open_issues": 403,
             "owner": "emotion-js",
             "repo": "emotion",
-            "stars": 18039,
+            "stars": 18040,
             "topics": [
               "babel-plugin",
               "css",
@@ -699,7 +699,7 @@
             "open_issues": 72,
             "owner": "threepointone",
             "repo": "glamor",
-            "stars": 3666,
+            "stars": 3665,
             "topics": []
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
@@ -933,7 +933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T08:31:29.408Z",
+    "last_updated": "2026-11-21T08:15:36.855Z",
     "original_repository_info": {
       "archived": false,
       "description": " Awesome CSS in JS articles / tutorials / videos / benchmarks / comparision",
