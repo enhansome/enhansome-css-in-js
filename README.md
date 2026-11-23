@@ -14,15 +14,15 @@ A collection of awesome things regarding to CSS in JS approach
 ## Libraries
 
 * [styled-components](https://github.com/styled-components/styled-components) ⭐ 41,061 | 🐛 30 | 🌐 TypeScript | 📅 2026-11-17 - Universal, Dynamic & High-Performance Styling in JavaScript
-* [linaria](https://github.com/callstack/linaria) ⭐ 12,351 | 🐛 64 | 🌐 TypeScript | 📅 2026-11-14 - Zero-runtime CSS in JS library
-* [styled-jsx](https://github.com/zeit/styled-jsx) ⭐ 7,771 | 🐛 83 | 🌐 JavaScript | 📅 2026-06-09 - Full CSS support for JSX without compromises
+* [linaria](https://github.com/callstack/linaria) ⭐ 12,351 | 🐛 66 | 🌐 TypeScript | 📅 2026-11-14 - Zero-runtime CSS in JS library
+* [styled-jsx](https://github.com/zeit/styled-jsx) ⭐ 7,769 | 🐛 83 | 🌐 JavaScript | 📅 2026-06-09 - Full CSS support for JSX without compromises
 * [radium](https://github.com/FormidableLabs/radium) ⚠️ Archived - Set of tools to manage inline styles on React elements.
 * [jss](https://github.com/cssinjs/jss) ⭐ 7,040 | 🐛 218 | 🌐 JavaScript | 📅 2026-11-15 - JSS is a CSS authoring tool which uses JavaScript as a host language
 * [aphrodite](https://github.com/Khan/aphrodite) ⭐ 5,336 | 🐛 90 | 🌐 JavaScript | 📅 2025-07-24 - It's inline styles, but they work! Also supports styling via CSS
 * [glamor](https://github.com/threepointone/glamor) ⭐ 3,665 | 🐛 72 | 🌐 JavaScript | 📅 2023-12-21 - css in your javascript
 * [glamorous](https://github.com/paypal/glamorous) ⚠️ Archived - React component styling solved with an elegant API, small footprint, and great performance (via glamor)
 * [styletron](https://github.com/rtsao/styletron) ⭐ 3,308 | 🐛 36 | 🌐 TypeScript | 📅 2023-12-22 - ⚡️ Universal, high-performance JavaScript styles
-* [fela](https://github.com/rofrischmann/fela/) ⭐ 2,278 | 🐛 8 | 🌐 JavaScript | 📅 2024-11-06 - Universal, Dynamic & High-Performance Styling in JavaScript
+* [fela](https://github.com/rofrischmann/fela/) ⭐ 2,277 | 🐛 8 | 🌐 JavaScript | 📅 2024-11-06 - Universal, Dynamic & High-Performance Styling in JavaScript
 * [csx](https://github.com/jxnblk/cxs) ⭐ 1,180 | 🐛 45 | 🌐 JavaScript | 📅 2022-12-08 - ϟ A CSS-in-JS solution for functional CSS in functional UI components
 * [glam](https://github.com/threepointone/glam) ⭐ 508 | 🐛 13 | 🌐 JavaScript | 📅 2018-04-25 - crazy good css in your js
 * [freestyler](https://github.com/streamich/freestyler) ⭐ 269 | 🐛 13 | 🌐 TypeScript | 📅 2026-02-07 - 5<sup>th</sup> generation React styling library
@@ -85,8 +85,8 @@ props => ({
 
 |                                                             Package                                                             | As Object | As TL | SSR | RN Support | Agnostic | Dynamic | Babel plugins | Bindings                                                                                                                                                                                                                                                                         |   |
 | :-----------------------------------------------------------------------------------------------------------------------------: | :-------: | :---: | :-: | ---------- | -------- | ------- | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - |
-|              [emotion](https://github.com/emotion-js/emotion) ⭐ 18,039 \| 🐛 403 \| 🌐 JavaScript \| 📅 2026-10-23              |     ✅     |   ✅   |  ✅  | ✅          | ✅        | ✅       | ✅             | react-emotion, preact-emotion                                                                                                                                                                                                                                                    |   |
-|                 [fela](https://github.com/rofrischmann/fela/) ⭐ 2,278 \| 🐛 8 \| 🌐 JavaScript \| 📅 2024-11-06                 |     ✅     |       |  ✅  | ✅          | ✅        | ✅       |               | [react-fela](http://fela.js.org/docs/guides/UsageWithReact.html) [native-fela](http://fela.js.org/docs/guides/UsageWithReactNative.html) [preact-fela](http://fela.js.org/docs/guides/UsageWithPreact.html) [inferno-fela](http://fela.js.org/docs/guides/UsageWithInferno.html) |   |
+|              [emotion](https://github.com/emotion-js/emotion) ⭐ 18,042 \| 🐛 404 \| 🌐 JavaScript \| 📅 2026-10-23              |     ✅     |   ✅   |  ✅  | ✅          | ✅        | ✅       | ✅             | react-emotion, preact-emotion                                                                                                                                                                                                                                                    |   |
+|                 [fela](https://github.com/rofrischmann/fela/) ⭐ 2,277 \| 🐛 8 \| 🌐 JavaScript \| 📅 2024-11-06                 |     ✅     |       |  ✅  | ✅          | ✅        | ✅       |               | [react-fela](http://fela.js.org/docs/guides/UsageWithReact.html) [native-fela](http://fela.js.org/docs/guides/UsageWithReactNative.html) [preact-fela](http://fela.js.org/docs/guides/UsageWithPreact.html) [inferno-fela](http://fela.js.org/docs/guides/UsageWithInferno.html) |   |
 |                    [jss](https://github.com/cssinjs/jss) ⭐ 7,040 \| 🐛 218 \| 🌐 JavaScript \| 📅 2026-11-15                    |     ✅     |   ✅   |  ✅  |            | ✅        | ✅       | ✅             | [react-jss](https://github.com/cssinjs/react-jss) [styled-jss](https://github.com/cssinjs/styled-jss) ⭐ 213 \| 🐛 20 \| 🌐 JavaScript \| 📅 2018-12-31                                                                                                                           |   |
 |                    [rockey](https://github.com/tuchk4/rockey) ⭐ 98 \| 🐛 3 \| 🌐 JavaScript \| 📅 2019-02-15                    |           |   ✅   |     |            | ✅        | ✅       |               | [rockey-react](https://github.com/tuchk4/rockey/tree/master/packages/rockey-react) ⭐ 98 \| 🐛 3 \| 🌐 JavaScript \| 📅 2019-02-15                                                                                                                                                |   |
 | [styled-components](https://github.com/styled-components/styled-components) ⭐ 41,061 \| 🐛 30 \| 🌐 TypeScript \| 📅 2026-11-17 |           |   ✅   |  ✅  | ✅          |          | ✅       | ✅             |                                                                                                                                                                                                                                                                                  |   |
@@ -136,4 +136,4 @@ props => ({
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
