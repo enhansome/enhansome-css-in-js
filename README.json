@@ -15,11 +15,11 @@
             "id": 65794292,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-17T04:11:31Z",
-            "open_issues": 30,
+            "last_commit": "2026-11-24T07:26:18Z",
+            "open_issues": 31,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41061,
+            "stars": 41049,
             "topics": [
               "css",
               "css-in-js",
@@ -43,8 +43,8 @@
             "id": 92112844,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-14T02:53:47Z",
-            "open_issues": 66,
+            "last_commit": "2026-11-23T12:47:24Z",
+            "open_issues": 62,
             "owner": "callstack",
             "repo": "linaria",
             "stars": 12351,
@@ -460,7 +460,7 @@
             "open_issues": 404,
             "owner": "emotion-js",
             "repo": "emotion",
-            "stars": 18042,
+            "stars": 18037,
             "topics": [
               "babel-plugin",
               "css",
@@ -596,11 +596,11 @@
             "id": 65794292,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-17T04:11:31Z",
-            "open_issues": 30,
+            "last_commit": "2026-11-24T07:26:18Z",
+            "open_issues": 31,
             "owner": "styled-components",
             "repo": "styled-components",
-            "stars": 41061,
+            "stars": 41049,
             "topics": [
               "css",
               "css-in-js",
@@ -933,7 +933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T09:00:57.746Z",
+    "last_updated": "2026-11-24T10:54:03.645Z",
     "original_repository_info": {
       "archived": false,
       "description": " Awesome CSS in JS articles / tutorials / videos / benchmarks / comparision",
