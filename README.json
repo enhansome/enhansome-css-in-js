@@ -15,8 +15,8 @@
             "id": 65794292,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-24T07:26:18Z",
-            "open_issues": 31,
+            "last_commit": "2026-11-24T21:11:43Z",
+            "open_issues": 5,
             "owner": "styled-components",
             "repo": "styled-components",
             "stars": 41049,
@@ -47,7 +47,7 @@
             "open_issues": 62,
             "owner": "callstack",
             "repo": "linaria",
-            "stars": 12351,
+            "stars": 12350,
             "topics": [
               "css",
               "css-in-js",
@@ -101,7 +101,7 @@
             "open_issues": 83,
             "owner": "FormidableLabs",
             "repo": "radium",
-            "stars": 7328,
+            "stars": 7327,
             "topics": []
           },
           "first_seen": "2026-08-28T12:46:04.352Z"
@@ -151,7 +151,7 @@
             "open_issues": 90,
             "owner": "Khan",
             "repo": "aphrodite",
-            "stars": 5336,
+            "stars": 5335,
             "topics": [
               "aphrodite",
               "css",
@@ -460,7 +460,7 @@
             "open_issues": 404,
             "owner": "emotion-js",
             "repo": "emotion",
-            "stars": 18037,
+            "stars": 18033,
             "topics": [
               "babel-plugin",
               "css",
@@ -596,8 +596,8 @@
             "id": 65794292,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-24T07:26:18Z",
-            "open_issues": 31,
+            "last_commit": "2026-11-24T21:11:43Z",
+            "open_issues": 5,
             "owner": "styled-components",
             "repo": "styled-components",
             "stars": 41049,
@@ -628,7 +628,7 @@
             "open_issues": 90,
             "owner": "Khan",
             "repo": "aphrodite",
-            "stars": 5336,
+            "stars": 5335,
             "topics": [
               "aphrodite",
               "css",
@@ -859,7 +859,7 @@
             "open_issues": 6,
             "owner": "MicheleBertoli",
             "repo": "css-in-js",
-            "stars": 5468,
+            "stars": 5467,
             "topics": [
               "css-in-js",
               "cssinjs"
@@ -933,7 +933,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T10:54:03.645Z",
+    "last_updated": "2026-11-25T09:50:30.362Z",
     "original_repository_info": {
       "archived": false,
       "description": " Awesome CSS in JS articles / tutorials / videos / benchmarks / comparision",
